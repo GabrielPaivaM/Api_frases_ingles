@@ -1,1503 +1,2101 @@
 {
-  "basicos": [
-    {
-      "id": 1,
-      "frase_ingles": "Hello!",
-      "traducao": "Olá!"
-    },
-    {
-      "id": 2,
-      "frase_ingles": "Good morning.",
-      "traducao": "Bom dia."
-    },
-    {
-      "id": 3,
-      "frase_ingles": "How are you?",
-      "traducao": "Como você está?"
-    },
-    {
-      "id": 4,
-      "frase_ingles": "What's your name?",
-      "traducao": "Qual é o seu nome?"
-    },
-    {
-      "id": 5,
-      "frase_ingles": "My name is Lisa.",
-      "traducao": "Meu nome é Lisa."
-    },
-    {
-      "id": 6,
-      "frase_ingles": "Nice to meet you.",
-      "traducao": "Prazer em conhecê-lo."
-    },
-    {
-      "id": 7,
-      "frase_ingles": "Please.",
-      "traducao": "Por favor."
-    },
-    {
-      "id": 8,
-      "frase_ingles": "Thank you.",
-      "traducao": "Obrigado(a)."
-    },
-    {
-      "id": 9,
-      "frase_ingles": "You're welcome.",
-      "traducao": "De nada."
-    },
-    {
-      "id": 10,
-      "frase_ingles": "Yes.",
-      "traducao": "Sim."
-    },
-    {
-      "id": 11,
-      "frase_ingles": "No.",
-      "traducao": "Não."
-    },
-    {
-      "id": 12,
-      "frase_ingles": "I don't understand.",
-      "traducao": "Eu não entendo."
-    },
-    {
-      "id": 13,
-      "frase_ingles": "Can you help me?",
-      "traducao": "Você pode me ajudar?"
-    },
-    {
-      "id": 14,
-      "frase_ingles": "How much does it cost?",
-      "traducao": "Quanto custa?"
-    },
-    {
-      "id": 15,
-      "frase_ingles": "Where is the bathroom?",
-      "traducao": "Onde fica o banheiro?"
-    },
-    {
-      "id": 16,
-      "frase_ingles": "I'm hungry.",
-      "traducao": "Estou com fome."
-    },
-    {
-      "id": 17,
-      "frase_ingles": "I'm thirsty.",
-      "traducao": "Estou com sede."
-    },
-    {
-      "id": 18,
-      "frase_ingles": "I like it.",
-      "traducao": "Eu gosto disso."
-    },
-    {
-      "id": 19,
-      "frase_ingles": "I don't like it.",
-      "traducao": "Eu não gosto disso."
-    },
-    {
-      "id": 20,
-      "frase_ingles": "How old are you?",
-      "traducao": "Quantos anos você tem?"
-    },
-    {
-      "id": 21,
-      "frase_ingles": "I'm 25 years old.",
-      "traducao": "Tenho 25 anos."
-    },
-    {
-      "id": 22,
-      "frase_ingles": "Where do you live?",
-      "traducao": "Onde você mora?"
-    },
-    {
-      "id": 23,
-      "frase_ingles": "I live in New York.",
-      "traducao": "Eu moro em Nova Iorque."
-    },
-    {
-      "id": 24,
-      "frase_ingles": "Do you speak English?",
-      "traducao": "Você fala inglês?"
-    },
-    {
-      "id": 25,
-      "frase_ingles": "I speak a little English.",
-      "traducao": "Eu falo um pouco de inglês."
-    },
-    {
-      "id": 26,
-      "frase_ingles": "What time is it?",
-      "traducao": "Que horas são?"
-    },
-    {
-      "id": 27,
-      "frase_ingles": "It's sunny.",
-      "traducao": "Está ensolarado."
-    },
-    {
-      "id": 28,
-      "frase_ingles": "It's raining.",
-      "traducao": "Está chovendo."
-    },
-    {
-      "id": 29,
-      "frase_ingles": "It's cold.",
-      "traducao": "Está frio."
-    },
-    {
-      "id": 30,
-      "frase_ingles": "It's hot.",
-      "traducao": "Está quente."
-    },
-    {
-      "id": 31,
-      "frase_ingles": "I'm tired.",
-      "traducao": "Estou cansado(a)."
-    },
-    {
-      "id": 32,
-      "frase_ingles": "I'm happy.",
-      "traducao": "Estou feliz."
-    },
-    {
-      "id": 33,
-      "frase_ingles": "I'm sad.",
-      "traducao": "Estou triste."
-    },
-    {
-      "id": 34,
-      "frase_ingles": "What's your favorite color?",
-      "traducao": "Qual é a sua cor favorita?"
-    },
-    {
-      "id": 35,
-      "frase_ingles": "My favorite color is blue.",
-      "traducao": "Minha cor favorita é azul."
-    },
-    {
-      "id": 36,
-      "frase_ingles": "Can you pass the salt?",
-      "traducao": "Você pode passar o sal?"
-    },
-    {
-      "id": 37,
-      "frase_ingles": "May I have the bill, please?",
-      "traducao": "Posso ter a conta, por favor?"
-    },
-    {
-      "id": 38,
-      "frase_ingles": "How do I get to the airport?",
-      "traducao": "Como chego ao aeroporto?"
-    },
-    {
-      "id": 39,
-      "frase_ingles": "Is there a pharmacy nearby?",
-      "traducao": "Há uma farmácia por perto?"
-    },
-    {
-      "id": 40,
-      "frase_ingles": "What's the weather like today?",
-      "traducao": "Como está o tempo hoje?"
-    },
-    {
-      "id": 41,
-      "frase_ingles": "I have a cat.",
-      "traducao": "Eu tenho um gato."
-    },
-    {
-      "id": 42,
-      "frase_ingles": "Do you have any pets?",
-      "traducao": "Você tem algum animal de estimação?"
-    },
-    {
-      "id": 43,
-      "frase_ingles": "I like to read.",
-      "traducao": "Gosto de ler."
-    },
-    {
-      "id": 44,
-      "frase_ingles": "I like to listen to music.",
-      "traducao": "Gosto de ouvir música."
-    },
-    {
-      "id": 45,
-      "frase_ingles": "Can you help me find a hotel?",
-      "traducao": "Você pode me ajudar a encontrar um hotel?"
-    },
-    {
-      "id": 46,
-      "frase_ingles": "I'm visiting family.",
-      "traducao": "Estou visitando a família."
-    },
-    {
-      "id": 47,
-      "frase_ingles": "What's your phone number?",
-      "traducao": "Qual é o seu número de telefone?"
-    },
-    {
-      "id": 48,
-      "frase_ingles": "Can I borrow a pen?",
-      "traducao": "Posso pegar emprestada uma caneta?"
-    },
-    {
-      "id": 49,
-      "frase_ingles": "I need to go to the store.",
-      "traducao": "Preciso ir à loja."
-    },
-    {
-      "id": 50,
-      "frase_ingles": "How far is it?",
-      "traducao": "Quão longe é?"
-    },
-    {
-      "id": 51,
-      "frase_ingles": "It's nearby.",
-      "traducao": "É perto."
-    },
-    {
-      "id": 52,
-      "frase_ingles": "It's far.",
-      "traducao": "É longe."
-    },
-    {
-      "id": 53,
-      "frase_ingles": "Can I take a photo?",
-      "traducao": "Posso tirar uma foto?"
-    },
-    {
-      "id": 54,
-      "frase_ingles": "I have a headache.",
-      "traducao": "Estou com dor de cabeça."
-    },
-    {
-      "id": 55,
-      "frase_ingles": "I'm going on vacation.",
-      "traducao": "Vou de férias."
-    },
-    {
-      "id": 56,
-      "frase_ingles": "Do you have any siblings?",
-      "traducao": "Você tem irmãos?"
-    },
-    {
-      "id": 57,
-      "frase_ingles": "Can I pay with a credit card?",
-      "traducao": "Posso pagar com cartão de crédito?"
-    },
-    {
-      "id": 58,
-      "frase_ingles": "How do I get to the museum?",
-      "traducao": "Como chego ao museu?"
-    },
-    {
-      "id": 59,
-      "frase_ingles": "Can you recommend a good restaurant?",
-      "traducao": "Você pode recomendar um bom restaurante?"
-    },
-    {
-      "id": 60,
-      "frase_ingles": "I'm looking for a souvenir.",
-      "traducao": "Estou procurando uma lembrança."
-    },
-    {
-      "id": 61,
-      "frase_ingles": "Can you speak more slowly, please?",
-      "traducao": "Você pode falar mais devagar, por favor?"
-    },
-    {
-      "id": 62,
-      "frase_ingles": "I love your outfit.",
-      "traducao": "Adoro seu traje."
-    },
-    {
-      "id": 63,
-      "frase_ingles": "Can I try this on?",
-      "traducao": "Posso experimentar isso?"
-    },
-    {
-      "id": 64,
-      "frase_ingles": "It's too expensive.",
-      "traducao": "É muito caro."
-    },
-    {
-      "id": 65,
-      "frase_ingles": "It's on sale.",
-      "traducao": "Está em promoção."
-    },
-    {
-      "id": 66,
-      "frase_ingles": "I'm just looking.",
-      "traducao": "Estou apenas olhando."
-    },
-    {
-      "id": 67,
-      "frase_ingles": "I have a reservation.",
-      "traducao": "Tenho uma reserva."
-    },
-    {
-      "id": 68,
-      "frase_ingles": "How do I use this?",
-      "traducao": "Como uso isso?"
-    },
-    {
-      "id": 69,
-      "frase_ingles": "I don't have much time.",
-      "traducao": "Não tenho muito tempo."
-    },
-    {
-      "id": 70,
-      "frase_ingles": "Can you repeat that?",
-      "traducao": "Você pode repetir isso?"
-    },
-    {
-      "id": 71,
-      "frase_ingles": "I need a doctor.",
-      "traducao": "Preciso de um médico."
-    },
-    {
-      "id": 72,
-      "frase_ingles": "Do you accept credit cards?",
-      "traducao": "Você aceita cartões de crédito?"
-    },
-    {
-      "id": 73,
-      "frase_ingles": "Can I have a glass of water?",
-      "traducao": "Posso ter um copo de água?"
-    },
-    {
-      "id": 74,
-      "frase_ingles": "What's the Wi-Fi password?",
-      "traducao": "Qual é a senha do Wi-Fi?"
-    },
-    {
-      "id": 75,
-      "frase_ingles": "I'm lost.",
-      "traducao": "Estou perdido(a)."
-    },
-    {
-      "id": 76,
-      "frase_ingles": "Can you give me directions?",
-      "traducao": "Você pode me dar direções?"
-    },
-    {
-      "id": 77,
-      "frase_ingles": "Can you recommend a good movie?",
-      "traducao": "Você pode recomendar um bom filme?"
-    },
-    {
-      "id": 78,
-      "frase_ingles": "I'm looking for the nearest ATM.",
-      "traducao": "Estou procurando o caixa eletrônico mais próximo."
-    },
-    {
-      "id": 79,
-      "frase_ingles": "What's the nearest subway station?",
-      "traducao": "Qual é a estação de metrô mais próxima?"
-    },
-    {
-      "id": 80,
-      "frase_ingles": "How long does it take to get there?",
-      "traducao": "Quanto tempo leva para chegar lá?"
-    },
-    {
-      "id": 81,
-      "frase_ingles": "I'll have a coffee, please.",
-      "traducao": "Eu vou querer um café, por favor."
-    },
-    {
-      "id": 82,
-      "frase_ingles": "I'd like a ticket to the museum.",
-      "traducao": "Eu gostaria de um ingresso para o museu."
-    },
-    {
-      "id": 83,
-      "frase_ingles": "Can you show me on the map?",
-      "traducao": "Você pode me mostrar no mapa?"
-    },
-    {
-      "id": 84,
-      "frase_ingles": "What's the price of this item?",
-      "traducao": "Qual é o preço deste item?"
-    },
-    {
-      "id": 85,
-      "frase_ingles": "Is this vegetarian?",
-      "traducao": "Isso é vegetariano?"
-    },
-    {
-      "id": 86,
-      "frase_ingles": "Can I have some extra sauce?",
-      "traducao": "Posso ter um pouco mais de molho?"
-    },
-    {
-      "id": 87,
-      "frase_ingles": "I'll have the same as him.",
-      "traducao": "Eu vou querer o mesmo que ele."
-    },
-    {
-      "id": 88,
-      "frase_ingles": "Do you have a table for two?",
-      "traducao": "Você tem uma mesa para duas pessoas?"
-    },
-    {
-      "id": 89,
-      "frase_ingles": "Can you recommend a local dish?",
-      "traducao": "Você pode recomendar um prato local?"
-    },
-    {
-      "id": 90,
-      "frase_ingles": "I'm here for a business meeting.",
-      "traducao": "Estou aqui para uma reunião de negócios."
-    },
-    {
-      "id": 91,
-      "frase_ingles": "Can you bring the check, please?",
-      "traducao": "Você pode trazer a conta, por favor?"
-    },
-    {
-      "id": 92,
-      "frase_ingles": "Do you have any vegetarian options?",
-      "traducao": "Você tem opções vegetarianas?"
-    },
-    {
-      "id": 93,
-      "frase_ingles": "What's the Wi-Fi network name?",
-      "traducao": "Qual é o nome da rede Wi-Fi?"
-    },
-    {
-      "id": 94,
-      "frase_ingles": "What's the daily special?",
-      "traducao": "Qual é a especialidade do dia?"
-    },
-    {
-      "id": 95,
-      "frase_ingles": "I need a taxi to the airport.",
-      "traducao": "Preciso de um táxi para o aeroporto."
-    },
-    {
-      "id": 96,
-      "frase_ingles": "Can I have a fork and knife?",
-      "traducao": "Posso ter um garfo e uma faca?"
-    },
-    {
-      "id": 97,
-      "frase_ingles": "How much is a one-way ticket?",
-      "traducao": "Quanto custa uma passagem de ida?"
-    },
-    {
-      "id": 98,
-      "frase_ingles": "I'll have a glass of red wine.",
-      "traducao": "Eu vou querer um copo de vinho tinto."
-    },
-    {
-      "id": 99,
-      "frase_ingles": "Do you have a menu in English?",
-      "traducao": "Você tem um cardápio em inglês?"
-    },
-    {
-      "id": 100,
-      "frase_ingles": "Can I have a to-go box, please?",
-      "traducao": "Posso ter uma embalagem para viagem, por favor?"
-    }
-  ],
-  "intermediarios": [
-    {
-      "id": 101,
-      "frase_ingles": "How's it going?",
-      "traducao": "Como está indo?"
-    },
-    {
-      "id": 102,
-      "frase_ingles": "What's up?",
-      "traducao": "O que está acontecendo?"
-    },
-    {
-      "id": 103,
-      "frase_ingles": "I'm feeling a bit tired today.",
-      "traducao": "Estou me sentindo um pouco cansado hoje."
-    },
-    {
-      "id": 104,
-      "frase_ingles": "Can I have a coffee, please?",
-      "traducao": "Posso tomar um café, por favor?"
-    },
-    {
-      "id": 105,
-      "frase_ingles": "I'll have a sandwich for lunch.",
-      "traducao": "Vou comer um sanduíche no almoço."
-    },
-    {
-      "id": 106,
-      "frase_ingles": "I need to go to the grocery store.",
-      "traducao": "Preciso ir ao supermercado."
-    },
-    {
-      "id": 107,
-      "frase_ingles": "Do you want to go for a walk later?",
-      "traducao": "Você quer dar uma volta mais tarde?"
-    },
-    {
-      "id": 108,
-      "frase_ingles": "What did you do over the weekend?",
-      "traducao": "O que você fez no fim de semana?"
-    },
-    {
-      "id": 109,
-      "frase_ingles": "I'm running late for work.",
-      "traducao": "Estou atrasado para o trabalho."
-    },
-    {
-      "id": 110,
-      "frase_ingles": "Have a great day!",
-      "traducao": "Tenha um ótimo dia!"
-    },
-    {
-      "id": 111,
-      "frase_ingles": "It's a beautiful day today.",
-      "traducao": "Está um dia lindo hoje."
-    },
-    {
-      "id": 112,
-      "frase_ingles": "I'm meeting a friend for dinner.",
-      "traducao": "Vou encontrar um amigo para jantar."
-    },
-    {
-      "id": 113,
-      "frase_ingles": "How's your family doing?",
-      "traducao": "Como está sua família?"
-    },
-    {
-      "id": 114,
-      "frase_ingles": "I like to relax by watching TV.",
-      "traducao": "Gosto de relaxar assistindo TV."
-    },
-    {
-      "id": 115,
-      "frase_ingles": "Can you pass me the salt, please?",
-      "traducao": "Você pode me passar o sal, por favor?"
-    },
-    {
-      "id": 116,
-      "frase_ingles": "I'm thinking about redecorating my living room.",
-      "traducao": "Estou pensando em redecorar minha sala de estar."
-    },
-    {
-      "id": 117,
-      "frase_ingles": "I have a dentist appointment next week.",
-      "traducao": "Tenho uma consulta com o dentista na próxima semana."
-    },
-    {
-      "id": 118,
-      "frase_ingles": "Did you catch the latest episode of that show?",
-      "traducao": "Você assistiu ao último episódio daquela série?"
-    },
-    {
-      "id": 119,
-      "frase_ingles": "I'm not a morning person.",
-      "traducao": "Eu não sou uma pessoa da manhã."
-    },
-    {
-      "id": 120,
-      "frase_ingles": "Do you have any plans for the weekend?",
-      "traducao": "Você tem planos para o fim de semana?"
-    },
-    {
-      "id": 121,
-      "frase_ingles": "I can't make it to the party on Saturday.",
-      "traducao": "Não posso ir à festa no sábado."
-    },
-    {
-      "id": 122,
-      "frase_ingles": "Let's grab a bite to eat.",
-      "traducao": "Vamos comer algo."
-    },
-    {
-      "id": 123,
-      "frase_ingles": "It's too hot outside today.",
-      "traducao": "Está muito quente lá fora hoje."
-    },
-    {
-      "id": 124,
-      "frase_ingles": "Can you recommend a good restaurant in the area?",
-      "traducao": "Você pode recomendar um bom restaurante na região?"
-    },
-    {
-      "id": 125,
-      "frase_ingles": "I'm going shopping for some new clothes.",
-      "traducao": "Vou fazer compras de roupas novas."
-    },
-    {
-      "id": 126,
-      "frase_ingles": "How's your new job going?",
-      "traducao": "Como vai seu novo emprego?"
-    },
-    {
-      "id": 127,
-      "frase_ingles": "I'm taking a day off to relax.",
-      "traducao": "Estou tirando um dia de folga para relaxar."
-    },
-    {
-      "id": 128,
-      "frase_ingles": "I'll pick you up at the airport.",
-      "traducao": "Vou buscá-lo no aeroporto."
-    },
-    {
-      "id": 129,
-      "frase_ingles": "What's your favorite type of music?",
-      "traducao": "Qual é o seu tipo de música favorito?"
-    },
-    {
-      "id": 130,
-      "frase_ingles": "I'm going to the gym to work out.",
-      "traducao": "Vou à academia para malhar."
-    },
-    {
-      "id": 131,
-      "frase_ingles": "I'll have the same as you, please.",
-      "traducao": "Vou querer a mesma coisa que você, por favor."
-    },
-    {
-      "id": 132,
-      "frase_ingles": "Do you like to cook at home?",
-      "traducao": "Você gosta de cozinhar em casa?"
-    },
-    {
-      "id": 133,
-      "frase_ingles": "I can't find my keys anywhere.",
-      "traducao": "Não consigo encontrar minhas chaves em lugar nenhum."
-    },
-    {
-      "id": 134,
-      "frase_ingles": "Let's go out for a drink tonight.",
-      "traducao": "Vamos sair para tomar algo esta noite."
-    },
-    {
-      "id": 135,
-      "frase_ingles": "I enjoy spending time in nature.",
-      "traducao": "Gosto de passar tempo na natureza."
-    },
-    {
-      "id": 136,
-      "frase_ingles": "Have you met the new neighbors?",
-      "traducao": "Você conheceu os novos vizinhos?"
-    },
-    {
-      "id": 137,
-      "frase_ingles": "I'm going to visit my grandparents this weekend.",
-      "traducao": "Vou visitar meus avós neste fim de semana."
-    },
-    {
-      "id": 138,
-      "frase_ingles": "How's your day been so far?",
-      "traducao": "Como tem sido o seu dia até agora?"
-    },
-    {
-      "id": 139,
-      "frase_ingles": "I need to do some cleaning around the house.",
-      "traducao": "Preciso fazer uma limpeza em casa."
-    },
-    {
-      "id": 140,
-      "frase_ingles": "Can you give me a hand with this?",
-      "traducao": "Você pode me dar uma mão com isso?"
-    },
-    {
-      "id": 141,
-      "frase_ingles": "I'm looking for a new book to read.",
-      "traducao": "Estou procurando um livro novo para ler."
-    },
-    {
-      "id": 142,
-      "frase_ingles": "Let's go to the park and relax.",
-      "traducao": "Vamos ao parque e relaxar."
-    },
-    {
-      "id": 143,
-      "frase_ingles": "I need to buy some groceries for the week.",
-      "traducao": "Preciso comprar mantimentos para a semana."
-    },
-    {
-      "id": 144,
-      "frase_ingles": "How's your pet doing?",
-      "traducao": "Como está seu animal de estimação?"
-    },
-    {
-      "id": 145,
-      "frase_ingles": "I'm trying to eat healthier these days.",
-      "traducao": "Estou tentando comer mais saudável nos dias de hoje."
-    },
-    {
-      "id": 146,
-      "frase_ingles": "I'm going to take a quick nap.",
-      "traducao": "Vou tirar um cochilo rápido."
-    },
-    {
-      "id": 147,
-      "frase_ingles": "I'll have a glass of water, please.",
-      "traducao": "Vou querer um copo de água, por favor."
-    },
-    {
-      "id": 148,
-      "frase_ingles": "Did you watch the game last night?",
-      "traducao": "Você assistiu ao jogo ontem à noite?"
-    },
-    {
-      "id": 149,
-      "frase_ingles": "I need to get my car serviced.",
-      "traducao": "Preciso levar meu carro para a revisão."
-    },
-    {
-      "id": 150,
-      "frase_ingles": "It's a beautiful sunset.",
-      "traducao": "É um pôr do sol lindo."
-    },
-    {
-      "id": 151,
-      "frase_ingles": "Let's go out for a movie this weekend.",
-      "traducao": "Vamos ao cinema neste fim de semana."
-    },
-    {
-      "id": 152,
-      "frase_ingles": "Can you recommend a good place to go hiking?",
-      "traducao": "Você pode recomendar um bom lugar para fazer trilhas?"
-    },
-    {
-      "id": 153,
-      "frase_ingles": "I'm trying to cut down on junk food.",
-      "traducao": "Estou tentando reduzir o consumo de comida junk."
-    },
-    {
-      "id": 154,
-      "frase_ingles": "How's your new phone working out?",
-      "traducao": "Como está funcionando o seu novo telefone?"
-    },
-    {
-      "id": 155,
-      "frase_ingles": "I'm thinking of getting a new haircut.",
-      "traducao": "Estou pensando em fazer um novo corte de cabelo."
-    },
-    {
-      "id": 156,
-      "frase_ingles": "Let's plan a barbecue for the weekend.",
-      "traducao": "Vamos planejar um churrasco para o fim de semana."
-    },
-    {
-      "id": 157,
-      "frase_ingles": "I need to get a birthday gift for my friend.",
-      "traducao": "Preciso comprar um presente de aniversário para meu amigo."
-    },
-    {
-      "id": 158,
-      "frase_ingles": "I'm going to fix that leaky faucet.",
-      "traducao": "Vou consertar essa torneira que está vazando."
-    },
-    {
-      "id": 159,
-      "frase_ingles": "Have you tried the new restaurant downtown?",
-      "traducao": "Você experimentou o novo restaurante no centro?"
-    },
-    {
-      "id": 160,
-      "frase_ingles": "I'm going to visit the art museum.",
-      "traducao": "Vou visitar o museu de arte."
-    },
-    {
-      "id": 161,
-      "frase_ingles": "I love going to the beach in the summer.",
-      "traducao": "Adoro ir à praia no verão."
-    },
-    {
-      "id": 162,
-      "frase_ingles": "I need to get my computer fixed.",
-      "traducao": "Preciso consertar meu computador."
-    },
-    {
-      "id": 163,
-      "frase_ingles": "How's your garden coming along?",
-      "traducao": "Como está indo o seu jardim?"
-    },
-    {
-      "id": 164,
-      "frase_ingles": "I'm thinking of taking a short trip.",
-      "traducao": "Estou pensando em fazer uma viagem curta."
-    },
-    {
-      "id": 165,
-      "frase_ingles": "I'll have the salad, please.",
-      "traducao": "Vou querer a salada, por favor."
-    },
-    {
-      "id": 166,
-      "frase_ingles": "Do you enjoy going to music concerts?",
-      "traducao": "Você gosta de ir a concertos de música?"
-    },
-    {
-      "id": 167,
-      "frase_ingles": "I'm going to paint my living room.",
-      "traducao": "Vou pintar minha sala de estar."
-    },
-    {
-      "id": 168,
-      "frase_ingles": "Let's go to the local farmers' market.",
-      "traducao": "Vamos ao mercado de produtores locais."
-    },
-    {
-      "id": 169,
-      "frase_ingles": "I have a meeting at the office this afternoon.",
-      "traducao": "Tenho uma reunião no escritório esta tarde."
-    },
-    {
-      "id": 170,
-      "frase_ingles": "Have you been to the new cafe in town?",
-      "traducao": "Você já esteve no novo café da cidade?"
-    },
-    {
-      "id": 171,
-      "frase_ingles": "I'm trying to get in shape through exercise.",
-      "traducao": "Estou tentando entrar em forma através do exercício."
-    },
-    {
-      "id": 172,
-      "frase_ingles": "I need to buy a birthday card for my sister.",
-      "traducao": "Preciso comprar um cartão de aniversário para minha irmã."
-    },
-    {
-      "id": 173,
-      "frase_ingles": "How's your day looking tomorrow?",
-      "traducao": "Como está parecendo seu dia para amanhã?"
-    },
-    {
-      "id": 174,
-      "frase_ingles": "I'm going to have lunch with some colleagues.",
-      "traducao": "Vou almoçar com alguns colegas."
-    },
-    {
-      "id": 175,
-      "frase_ingles": "I'm thinking of redecorating my bedroom.",
-      "traducao": "Estou pensando em redecorar meu quarto."
-    },
-    {
-      "id": 176,
-      "frase_ingles": "I need to clean out the garage.",
-      "traducao": "Preciso limpar a garagem."
-    },
-    {
-      "id": 177,
-      "frase_ingles": "I'll have a glass of red wine, please.",
-      "traducao": "Vou querer um copo de vinho tinto, por favor."
-    },
-    {
-      "id": 178,
-      "frase_ingles": "Have you tried the new coffee shop on Main Street?",
-      "traducao": "Você experimentou o novo café na Rua Principal?"
-    },
-    {
-      "id": 179,
-      "frase_ingles": "I'm going to get my car washed today.",
-      "traducao": "Vou lavar meu carro hoje."
-    },
-    {
-      "id": 180,
-      "frase_ingles": "How's your week been so far?",
-      "traducao": "Como foi sua semana até agora?"
-    },
-    {
-      "id": 181,
-      "frase_ingles": "I'm going to attend a family gathering this weekend.",
-      "traducao": "Vou participar de uma reunião de família neste fim de semana."
-    },
-    {
-      "id": 182,
-      "frase_ingles": "I'll have a piece of cake, please.",
-      "traducao": "Vou querer um pedaço de bolo, por favor."
-    },
-    {
-      "id": 183,
-      "frase_ingles": "Do you like to go for long walks in the park?",
-      "traducao": "Você gosta de fazer longas caminhadas no parque?"
-    },
-    {
-      "id": 184,
-      "frase_ingles": "I'm thinking of starting a new hobby.",
-      "traducao": "Estou pensando em começar um novo hobby."
-    },
-    {
-      "id": 185,
-      "frase_ingles": "I need to replace the light bulbs in the house.",
-      "traducao": "Preciso substituir as lâmpadas da casa."
-    },
-    {
-      "id": 186,
-      "frase_ingles": "How's your day looking for tomorrow?",
-      "traducao": "Como está parecendo seu dia para amanhã?"
-    },
-    {
-      "id": 187,
-      "frase_ingles": "I'm going to visit some old friends.",
-      "traducao": "Vou visitar alguns amigos antigos."
-    },
-    {
-      "id": 188,
-      "frase_ingles": "I'll have a cup of tea, please.",
-      "traducao": "Vou querer uma xícara de chá, por favor."
-    },
-    {
-      "id": 189,
-      "frase_ingles": "Have you been to the new bookstore downtown?",
-      "traducao": "Você esteve na nova livraria no centro?"
-    },
-    {
-      "id": 190,
-      "frase_ingles": "I'm going to plant some flowers in the garden.",
-      "traducao": "Vou plantar algumas flores no jardim."
-    },
-    {
-      "id": 191,
-      "frase_ingles": "I'm thinking of trying a new restaurant for dinner.",
-      "traducao": "Estou pensando em experimentar um novo restaurante para o jantar."
-    },
-    {
-      "id": 192,
-      "frase_ingles": "I need to organize my closet.",
-      "traducao": "Preciso organizar meu armário."
-    },
-    {
-      "id": 193,
-      "frase_ingles": "How's your weekend looking?",
-      "traducao": "Como está parecendo seu fim de semana?"
-    },
-    {
-      "id": 194,
-      "frase_ingles": "I'm going to bake some cookies.",
-      "traducao": "Vou assar alguns biscoitos."
-    },
-    {
-      "id": 195,
-      "frase_ingles": "I'll have a glass of orange juice, please.",
-      "traducao": "Vou querer um copo de suco de laranja, por favor."
-    },
-    {
-      "id": 196,
-      "frase_ingles": "Do you enjoy going to art galleries?",
-      "traducao": "Você gosta de ir a galerias de arte?"
-    },
-    {
-      "id": 197,
-      "frase_ingles": "I'm thinking of getting a pet.",
-      "traducao": "Estou pensando em ter um animal de estimação."
-    },
-    {
-      "id": 198,
-      "frase_ingles": "I'm going to have a barbecue in the backyard.",
-      "traducao": "Vou fazer um churrasco no quintal."
-    },
-    {
-      "id": 199,
-      "frase_ingles": "I need to buy some new shoes.",
-      "traducao": "Preciso comprar sapatos novos."
-    },
-    {
-      "id": 200,
-      "frase_ingles": "How's your day been?",
-      "traducao": "Como foi seu dia?"
-    }
-  ],
-  "avancados": [
-    {
-      "id": 201,
-      "frase_ingles": "He's a renowned scientist.",
-      "traducao": "Ela é uma cientista renomada."
-    },
-    {
-      "id": 202,
-      "frase_ingles": "He's a seasoned journalist.",
-      "traducao": "Ele é um jornalista experiente."
-    },
-    {
-      "id": 203,
-      "frase_ingles": "I'm deeply curious about space.",
-      "traducao": "Tenho uma grande curiosidade pelo espaço."
-    },
-    {
-      "id": 204,
-      "frase_ingles": "Can you explain chaos theory?",
-      "traducao": "Você pode explicar a teoria do caos?"
-    },
-    {
-      "id": 205,
-      "frase_ingles": "I love classical music.",
-      "traducao": "Eu amo música clássica."
-    },
-    {
-      "id": 206,
-      "frase_ingles": "He's an expert in linguistics.",
-      "traducao": "Ele é um especialista em linguística."
-    },
-    {
-      "id": 207,
-      "frase_ingles": "She's a talented pianist.",
-      "traducao": "Ela é uma talentosa pianista."
-    },
-    {
-      "id": 208,
-      "frase_ingles": "How does quantum physics work?",
-      "traducao": "Como funciona a física quântica?"
-    },
-    {
-      "id": 209,
-      "frase_ingles": "He's a published author.",
-      "traducao": "Ele é um autor publicado."
-    },
-    {
-      "id": 210,
-      "frase_ingles": "I'm passionate about environmental issues.",
-      "traducao": "Sou apaixonado por questões ambientais."
-    },
-    {
-      "id": 211,
-      "frase_ingles": "Can you discuss postmodern art?",
-      "traducao": "Você pode discutir arte pós-moderna?"
-    },
-    {
-      "id": 212,
-      "frase_ingles": "I'm into sustainable living.",
-      "traducao": "Estou envolvido com o estilo de vida sustentável."
-    },
-    {
-      "id": 213,
-      "frase_ingles": "She's a respected historian.",
-      "traducao": "Ela é uma historiadora respeitada."
-    },
-    {
-      "id": 214,
-      "frase_ingles": "He's a cybersecurity expert.",
-      "traducao": "Ele é um especialista em cibersegurança."
-    },
-    {
-      "id": 215,
-      "frase_ingles": "Can you analyze market trends?",
-      "traducao": "Você pode analisar as tendências do mercado?"
-    },
-    {
-      "id": 216,
-      "frase_ingles": "I'm an advocate for human rights.",
-      "traducao": "Sou defensor dos direitos humanos."
-    },
-    {
-      "id": 217,
-      "frase_ingles": "How do you view climate change?",
-      "traducao": "Como você vê as mudanças climáticas?"
-    },
-    {
-      "id": 218,
-      "frase_ingles": "She's a connoisseur of fine wine.",
-      "traducao": "Ela é uma conhecedora de vinhos finos."
-    },
-    {
-      "id": 219,
-      "frase_ingles": "I'm an avid reader.",
-      "traducao": "Sou um leitor ávido."
-    },
-    {
-      "id": 220,
-      "frase_ingles": "Can you interpret contemporary art?",
-      "traducao": "Você pode interpretar a arte contemporânea?"
-    },
-    {
-      "id": 221,
-      "frase_ingles": "He's a renowned philosopher.",
-      "traducao": "Ele é um filósofo renomado."
-    },
-    {
-      "id": 222,
-      "frase_ingles": "I'm exploring quantum mechanics.",
-      "traducao": "Estou explorando a mecânica quântica."
-    },
-    {
-      "id": 223,
-      "frase_ingles": "She's an authority on geopolitics.",
-      "traducao": "Ela é uma autoridade em geopolítica."
-    },
-    {
-      "id": 224,
-      "frase_ingles": "How do you see artificial intelligence?",
-      "traducao": "Como você enxerga a inteligência artificial?"
-    },
-    {
-      "id": 225,
-      "frase_ingles": "I'm fascinated by astrophysics.",
-      "traducao": "Sou fascinado pela astrofísica."
-    },
-    {
-      "id": 226,
-      "frase_ingles": "Can you discuss postcolonial literature?",
-      "traducao": "Você pode discutir a literatura pós-colonial?"
-    },
-    {
-      "id": 227,
-      "frase_ingles": "He's a neurobiology enthusiast.",
-      "traducao": "Ele é um entusiasta da neurobiologia."
-    },
-    {
-      "id": 228,
-      "frase_ingles": "I'm delving into nanotechnology.",
-      "traducao": "Estou me aprofundando na nanotecnologia."
-    },
-    {
-      "id": 229,
-      "frase_ingles": "She's a connoisseur of gourmet cuisine.",
-      "traducao": "Ela é uma conhecedora de culinária gourmet."
-    },
-    {
-      "id": 230,
-      "frase_ingles": "How do you perceive art's impact on society?",
-      "traducao": "Como você percebe o impacto da arte na sociedade?"
-    },
-    {
-      "id": 231,
-      "frase_ingles": "I'm deeply interested in urban planning.",
-      "traducao": "Tenho grande interesse em planejamento urbano."
-    },
-    {
-      "id": 232,
-      "frase_ingles": "Can you explain the Big Bang theory?",
-      "traducao": "Você pode explicar a teoria do Big Bang?"
-    },
-    {
-      "id": 233,
-      "frase_ingles": "He's a connoisseur of vintage cars.",
-      "traducao": "Ele é um conhecedor de carros antigos."
-    },
-    {
-      "id": 234,
-      "frase_ingles": "I'm enthusiastic about renewable energy.",
-      "traducao": "Sou entusiasta de energia renovável."
-    },
-    {
-      "id": 235,
-      "frase_ingles": "Can you analyze political ideologies?",
-      "traducao": "Você pode analisar ideologias políticas?"
-    },
-    {
-      "id": 236,
-      "frase_ingles": "She's an advocate for gender equality.",
-      "traducao": "Ela é uma defensora da igualdade de gênero."
-    },
-    {
-      "id": 237,
-      "frase_ingles": "How do you view post-truth politics?",
-      "traducao": "Como você vê a política pós-verdade?"
-    },
-    {
-      "id": 238,
-      "frase_ingles": "I'm passionate about space exploration.",
-      "traducao": "Sou apaixonado pela exploração espacial."
-    },
-    {
-      "id": 239,
-      "frase_ingles": "He's an aficionado of fine art.",
-      "traducao": "Ele é um aficionado em belas artes."
-    },
-    {
-      "id": 240,
-      "frase_ingles": "Can you elucidate the theory of relativity?",
-      "traducao": "Você pode elucidar a teoria da relatividade?"
-    },
-    {
-      "id": 241,
-      "frase_ingles": "I'm deeply interested in artificial intelligence.",
-      "traducao": "Tenho grande interesse em inteligência artificial."
-    },
-    {
-      "id": 242,
-      "frase_ingles": "She's a pioneer in biotechnology.",
-      "traducao": "Ela é pioneira em biotecnologia."
-    },
-    {
-      "id": 243,
-      "frase_ingles": "How do you interpret modern architecture?",
-      "traducao": "Como você interpreta a arquitetura moderna?"
-    },
-    {
-      "id": 244,
-      "frase_ingles": "I'm enthusiastic about environmental conservation.",
-      "traducao": "Sou entusiasta da conservação ambiental."
-    },
-    {
-      "id": 245,
-      "frase_ingles": "Can you analyze economic globalization?",
-      "traducao": "Você pode analisar a globalização econômica?"
-    },
-    {
-      "id": 246,
-      "frase_ingles": "He's a connoisseur of rare books.",
-      "traducao": "Ele é um conhecedor de livros raros."
-    },
-    {
-      "id": 247,
-      "frase_ingles": "I'm passionate about social justice.",
-      "traducao": "Sou apaixonado por justiça social."
-    },
-    {
-      "id": 248,
-      "frase_ingles": "Can you discuss quantum entanglement?",
-      "traducao": "Você pode discutir o entrelaçamento quântico?"
-    },
-    {
-      "id": 249,
-      "frase_ingles": "She's an expert in artificial intelligence ethics.",
-      "traducao": "Ela é uma especialista em ética da inteligência artificial."
-    },
-    {
-      "id": 250,
-      "frase_ingles": "How do you see the future of genetic engineering?",
-      "traducao": "Como você enxerga o futuro da engenharia genética?"
-    },
-    {
-      "id": 251,
-      "frase_ingles": "I'm fascinated by the intricacies of cultural heritage.",
-      "traducao": "Sou fascinado pelas complexidades do patrimônio cultural."
-    },
-    {
-      "id": 252,
-      "frase_ingles": "Can you explain the concept of dark matter?",
-      "traducao": "Você pode explicar o conceito de matéria escura?"
-    },
-    {
-      "id": 253,
-      "frase_ingles": "He's a leading expert in cybersecurity.",
-      "traducao": "Ele é um dos principais especialistas em cibersegurança."
-    },
-    {
-      "id": 254,
-      "frase_ingles": "I'm deeply interested in space exploration.",
-      "traducao": "Tenho grande interesse na exploração espacial."
-    },
-    {
-      "id": 255,
-      "frase_ingles": "How do you view the implications of biotechnology?",
-      "traducao": "Como você vê as implicações da biotecnologia?"
-    },
-    {
-      "id": 256,
-      "frase_ingles": "She's a pioneer in renewable energy solutions.",
-      "traducao": "Ela é pioneira em soluções de energia renovável."
-    },
-    {
-      "id": 257,
-      "frase_ingles": "I'm an advocate for sustainable agriculture.",
-      "traducao": "Sou defensor da agricultura sustentável."
-    },
-    {
-      "id": 258,
-      "frase_ingles": "Can you analyze cultural assimilation?",
-      "traducao": "Você pode analisar a assimilação cultural?"
-    },
-    {
-      "id": 259,
-      "frase_ingles": "He's a connoisseur of contemporary art.",
-      "traducao": "Ele é um conhecedor de arte contemporânea."
-    },
-    {
-      "id": 260,
-      "frase_ingles": "I'm enthusiastic about ecological conservation.",
-      "traducao": "Sou entusiasta da conservação ecológica."
-    },
-    {
-      "id": 261,
-      "frase_ingles": "Can you elucidate the philosophy of existentialism?",
-      "traducao": "Você pode elucidar a filosofia do existencialismo?"
-    },
-    {
-      "id": 262,
-      "frase_ingles": "How do you interpret the impact of globalization on cultural diversity?",
-      "traducao": "Como você interpreta o impacto da globalização na diversidade cultural?"
-    },
-    {
-      "id": 263,
-      "frase_ingles": "I'm deeply engaged in the world of quantum computing.",
-      "traducao": "Estou profundamente envolvido no mundo da computação quântica."
-    },
-    {
-      "id": 264,
-      "frase_ingles": "Can you elucidate the ethical considerations in AI development?",
-      "traducao": "Você pode elucidar as considerações éticas no desenvolvimento de IA?"
-    },
-    {
-      "id": 265,
-      "frase_ingles": "She's an advocate for women's rights and empowerment.",
-      "traducao": "Ela é defensora dos direitos e empoderamento das mulheres."
-    },
-    {
-      "id": 266,
-      "frase_ingles": "How do you see the role of technology in addressing climate change?",
-      "traducao": "Como você vê o papel da tecnologia em lidar com as mudanças climáticas?"
-    },
-    {
-      "id": 267,
-      "frase_ingles": "I'm passionate about exploring the mysteries of the universe.",
-      "traducao": "Sou apaixonado por explorar os mistérios do universo."
-    },
-    {
-      "id": 268,
-      "frase_ingles": "Can you discuss the cultural impact of the internet?",
-      "traducao": "Você pode discutir o impacto cultural da internet?"
-    },
-    {
-      "id": 269,
-      "frase_ingles": "He's a leading expert in artificial intelligence research.",
-      "traducao": "Ele é um dos principais especialistas em pesquisa de inteligência artificial."
-    },
-    {
-      "id": 270,
-      "frase_ingles": "I'm deeply committed to promoting sustainable urban development.",
-      "traducao": "Estou profundamente comprometido com a promoção do desenvolvimento urbano sustentável."
-    },
-    {
-      "id": 271,
-      "frase_ingles": "Can you explain the theory of general relativity?",
-      "traducao": "Você pode explicar a teoria da relatividade geral?"
-    },
-    {
-      "id": 272,
-      "frase_ingles": "She's a connoisseur of contemporary fashion trends.",
-      "traducao": "Ela é uma conhecedora das tendências de moda contemporânea."
-    },
-    {
-      "id": 273,
-      "frase_ingles": "How do you interpret the future of sustainable agriculture?",
-      "traducao": "Como você interpreta o futuro da agricultura sustentável?"
-    },
-    {
-      "id": 274,
-      "frase_ingles": "I'm enthusiastic about promoting scientific literacy.",
-      "traducao": "Sou entusiasta na promoção da literacia científica."
-    },
-    {
-      "id": 275,
-      "frase_ingles": "Can you analyze the societal impact of artificial intelligence?",
-      "traducao": "Você pode analisar o impacto na sociedade da inteligência artificial?"
-    },
-    {
-      "id": 276,
-      "frase_ingles": "He's a pioneer in green energy solutions.",
-      "traducao": "Ele é pioneiro em soluções de energia verde."
-    },
-    {
-      "id": 277,
-      "frase_ingles": "I'm an advocate for wildlife conservation and protection.",
-      "traducao": "Sou defensor da conservação e proteção da vida selvagem."
-    },
-    {
-      "id": 278,
-      "frase_ingles": "How do you see the future of space exploration?",
-      "traducao": "Como você enxerga o futuro da exploração espacial?"
-    },
-    {
-      "id": 279,
-      "frase_ingles": "I'm fascinated by the possibilities of genetic editing.",
-      "traducao": "Sou fascinado pelas possibilidades de edição genética."
-    },
-    {
-      "id": 280,
-      "frase_ingles": "Can you elucidate the principles of quantum mechanics?",
-      "traducao": "Você pode elucidar os princípios da mecânica quântica?"
-    },
-    {
-      "id": 281,
-      "frase_ingles": "She's an expert in marine biology and conservation.",
-      "traducao": "Ela é uma especialista em biologia marinha e conservação."
-    },
-    {
-      "id": 282,
-      "frase_ingles": "How do you interpret the cultural significance of traditional art forms?",
-      "traducao": "Como você interpreta a importância cultural das formas de arte tradicionais?"
-    },
-    {
-      "id": 283,
-      "frase_ingles": "I'm deeply passionate about promoting renewable energy sources.",
-      "traducao": "Sou profundamente apaixonado por promover fontes de energia renovável."
-    },
-    {
-      "id": 284,
-      "frase_ingles": "Can you explain the potential of artificial intelligence in healthcare?",
-      "traducao": "Você pode explicar o potencial da inteligência artificial na área da saúde?"
-    },
-    {
-      "id": 285,
-      "frase_ingles": "He's a connoisseur of classical literature.",
-      "traducao": "Ele é um conhecedor de literatura clássica."
-    },
-    {
-      "id": 286,
-      "frase_ingles": "I'm enthusiastic about exploring the frontiers of space science.",
-      "traducao": "Sou entusiasta em explorar as fronteiras da ciência espacial."
-    },
-    {
-      "id": 287,
-      "frase_ingles": "How do you view the role of technology in environmental sustainability?",
-      "traducao": "Como você vê o papel da tecnologia na sustentabilidade ambiental?"
-    },
-    {
-      "id": 288,
-      "frase_ingles": "She's a pioneer in artificial intelligence ethics research.",
-      "traducao": "Ela é pioneira em pesquisa ética em inteligência artificial."
-    },
-    {
-      "id": 289,
-      "frase_ingles": "I'm an advocate for human rights and social justice.",
-      "traducao": "Sou defensor dos direitos humanos e justiça social."
-    },
-    {
-      "id": 290,
-      "frase_ingles": "Can you analyze the impact of technology on education?",
-      "traducao": "Você pode analisar o impacto da tecnologia na educação?"
-    },
-    {
-      "id": 291,
-      "frase_ingles": "He's a leading expert in sustainable architecture.",
-      "traducao": "Ele é um dos principais especialistas em arquitetura sustentável."
-    },
-    {
-      "id": 292,
-      "frase_ingles": "I'm deeply interested in the field of quantum physics.",
-      "traducao": "Tenho grande interesse na área da física quântica."
-    },
-    {
-      "id": 293,
-      "frase_ingles": "How do you see the future of renewable energy technology?",
-      "traducao": "Como você enxerga o futuro da tecnologia de energia renovável?"
-    },
-    {
-      "id": 294,
-      "frase_ingles": "I'm passionate about promoting sustainable agriculture practices.",
-      "traducao": "Sou apaixonado por promover práticas de agricultura sustentável."
-    },
-    {
-      "id": 295,
-      "frase_ingles": "Can you elucidate the philosophy of postmodernism?",
-      "traducao": "Você pode elucidar a filosofia do pós-modernismo?"
-    },
-    {
-      "id": 296,
-      "frase_ingles": "She's an expert in artificial intelligence and machine learning.",
-      "traducao": "Ela é uma especialista em inteligência artificial e aprendizado de máquina."
-    },
-    {
-      "id": 297,
-      "frase_ingles": "How do you interpret the impact of globalization on local cultures?",
-      "traducao": "Como você interpreta o impacto da globalização nas culturas locais?"
-    },
-    {
-      "id": 298,
-      "frase_ingles": "I'm deeply committed to advancing environmental conservation efforts.",
-      "traducao": "Estou profundamente comprometido com o avanço dos esforços de conservação ambiental."
-    },
-    {
-      "id": 299,
-      "frase_ingles": "Can you explain the significance of biodiversity in ecosystems?",
-      "traducao": "Você pode explicar a importância da biodiversidade nos ecossistemas?"
-    }
-  ]
+    "basicos": [
+        {
+            "id": 1,
+            "frase_ingles": "Hello!",
+            "traducao": "Olá!",
+            "traducao2": "Alô!",
+            "traducao3": "Olá."
+        },
+        {
+            "id": 2,
+            "frase_ingles": "Good morning.",
+            "traducao": "Bom dia.",
+            "traducao2": "Bom dia!",
+            "traducao3": "Bom dia?"
+        },
+        {
+            "id": 3,
+            "frase_ingles": "How are you?",
+            "traducao": "Como você está?",
+            "traducao2": "Como vai você?",
+            "traducao3": "Como você está?"
+        },
+        {
+            "id": 4,
+            "frase_ingles": "What's your name?",
+            "traducao": "Qual é o seu nome?",
+            "traducao2": "Qual seu nome?",
+            "traducao3": "Seu nome é?"
+        },
+        {
+            "id": 5,
+            "frase_ingles": "My name is Lisa.",
+            "traducao": "Meu nome é Lisa.",
+            "traducao2": "Meu nome é Maria.",
+            "traducao3": "Meu nome é João."
+        },
+        {
+            "id": 6,
+            "frase_ingles": "Nice to meet you.",
+            "traducao": "Prazer em conhecê-lo.",
+            "traducao2": "Feliz em te ver.",
+            "traducao3": "Bom te encontrar."
+        },
+        {
+            "id": 7,
+            "frase_ingles": "Please.",
+            "traducao": "Por favor.",
+            "traducao2": "Por favor!",
+            "traducao3": "Por favor?"
+        },
+        {
+            "id": 8,
+            "frase_ingles": "Thank you.",
+            "traducao": "Obrigado(a).",
+            "traducao2": "Muito obrigado.",
+            "traducao3": "Obrigado!"
+        },
+        {
+            "id": 9,
+            "frase_ingles": "You're welcome.",
+            "traducao": "De nada.",
+            "traducao2": "Não há de quê.",
+            "traducao3": "Por nada."
+        },
+        {
+            "id": 10,
+            "frase_ingles": "Yes.",
+            "traducao": "Sim.",
+            "traducao2": "Sim!",
+            "traducao3": "Sim?"
+        },
+        {
+            "id": 11,
+            "frase_ingles": "No.",
+            "traducao": "Não.",
+            "traducao2": "Não!",
+            "traducao3": "Não?"
+        },
+        {
+            "id": 12,
+            "frase_ingles": "I don't understand.",
+            "traducao": "Eu não entendo.",
+            "traducao2": "Eu não compreendo.",
+            "traducao3": "Não estou entendendo."
+        },
+        {
+            "id": 13,
+            "frase_ingles": "Can you help me?",
+            "traducao": "Você pode me ajudar?",
+            "traducao2": "Você pode me socorrer?",
+            "traducao3": "Você pode me auxiliar?"
+        },
+        {
+            "id": 14,
+            "frase_ingles": "How much does it cost?",
+            "traducao": "Quanto custa?",
+            "traducao2": "Quanto isso sai?",
+            "traducao3": "Qual é o preço?"
+        },
+        {
+            "id": 15,
+            "frase_ingles": "Where is the bathroom?",
+            "traducao": "Onde fica o banheiro?",
+            "traducao2": "Onde está o banheiro?",
+            "traducao3": "Onde é o banheiro?"
+        },
+        {
+            "id": 16,
+            "frase_ingles": "I'm hungry.",
+            "traducao": "Estou com fome.",
+            "traducao2": "Estou faminto.",
+            "traducao3": "Estou com apetite."
+        },
+        {
+            "id": 17,
+            "frase_ingles": "I'm thirsty.",
+            "traducao": "Estou com sede.",
+            "traducao2": "Estou com vontade de beber.",
+            "traducao3": "Tenho sede."
+        },
+        {
+            "id": 18,
+            "frase_ingles": "I like it.",
+            "traducao": "Eu gosto disso.",
+            "traducao2": "Isso me agrada.",
+            "traducao3": "Eu amo isso."
+        },
+        {
+            "id": 19,
+            "frase_ingles": "I don't like it.",
+            "traducao": "Eu não gosto disso.",
+            "traducao2": "Não aprecio isso.",
+            "traducao3": "Isso não me agrada."
+        },
+        {
+            "id": 20,
+            "frase_ingles": "How old are you?",
+            "traducao": "Quantos anos você tem?",
+            "traducao2": "Qual a sua idade?",
+            "traducao3": "Quantos anos você possui?"
+        },
+        {
+            "id": 21,
+            "frase_ingles": "I'm 25 years old.",
+            "traducao": "Tenho 25 anos.",
+            "traducao2": "Estou com 25 anos.",
+            "traducao3": "Completo 25 anos."
+        },
+        {
+            "id": 22,
+            "frase_ingles": "Where do you live?",
+            "traducao": "Onde você mora?",
+            "traducao2": "Onde reside?",
+            "traducao3": "Qual é o seu endereço?"
+        },
+        {
+            "id": 23,
+            "frase_ingles": "I live in New York.",
+            "traducao": "Eu moro em Nova Iorque.",
+            "traducao2": "Resido em Nova Iorque.",
+            "traducao3": "Habito em Nova Iorque."
+        },
+        {
+            "id": 24,
+            "frase_ingles": "Do you speak English?",
+            "traducao": "Você fala inglês?",
+            "traducao2": "Você compreende inglês?",
+            "traducao3": "Sabe inglês?"
+        },
+        {
+            "id": 25,
+            "frase_ingles": "I speak a little English.",
+            "traducao": "Eu falo um pouco de inglês.",
+            "traducao2": "Sei um pouco de inglês.",
+            "traducao3": "Tenho conhecimento limitado de inglês."
+        },
+        {
+            "id": 26,
+            "frase_ingles": "What time is it?",
+            "traducao": "Que horas são?",
+            "traducao2": "Que horas temos?",
+            "traducao3": "Que horas marca?"
+        },
+        {
+            "id": 27,
+            "frase_ingles": "It's sunny.",
+            "traducao": "Está ensolarado.",
+            "traducao2": "Está sol.",
+            "traducao3": "O tempo está bom."
+        },
+        {
+            "id": 28,
+            "frase_ingles": "It's raining.",
+            "traducao": "Está chovendo.",
+            "traducao2": "Está chuvoso.",
+            "traducao3": "Chove."
+        },
+        {
+            "id": 29,
+            "frase_ingles": "It's cold.",
+            "traducao": "Está frio.",
+            "traducao2": "Está gelado.",
+            "traducao3": "Faz frio."
+        },
+        {
+            "id": 30,
+            "frase_ingles": "It's hot.",
+            "traducao": "Está quente.",
+            "traducao2": "Está calor.",
+            "traducao3": "Faz calor."
+        },
+        {
+            "id": 31,
+            "frase_ingles": "I'm tired.",
+            "traducao": "Estou cansado(a).",
+            "traducao2": "Estou exausto(a).",
+            "traducao3": "Estou fatigado(a)."
+        },
+        {
+            "id": 32,
+            "frase_ingles": "I'm happy.",
+            "traducao": "Estou feliz.",
+            "traducao2": "Estou contente.",
+            "traducao3": "Estou alegre."
+        },
+        {
+            "id": 33,
+            "frase_ingles": "I'm sad.",
+            "traducao": "Estou triste.",
+            "traducao2": "Estou desolado(a).",
+            "traducao3": "Estou melancólico(a)."
+        },
+        {
+            "id": 34,
+            "frase_ingles": "What's your favorite color?",
+            "traducao": "Qual é a sua cor favorita?",
+            "traducao2": "Qual é a cor que você gosta?",
+            "traducao3": "Qual é a sua cor predileta?"
+        },
+        {
+            "id": 35,
+            "frase_ingles": "My favorite color is blue.",
+            "traducao": "Minha cor favorita é azul.",
+            "traducao2": "Gosto da cor azul.",
+            "traducao3": "Eu amo o azul."
+        },
+        {
+            "id": 36,
+            "frase_ingles": "Can you pass the salt?",
+            "traducao": "Você pode passar o sal?",
+            "traducao2": "Você pode me dar o sal?",
+            "traducao3": "Pode me entregar o sal?"
+        },
+        {
+            "id": 37,
+            "frase_ingles": "May I have the bill, please?",
+            "traducao": "Posso ter a conta, por favor?",
+            "traducao2": "Posso receber a fatura, por gentileza?",
+            "traducao3": "Pode me trazer a fatura, por favor?"
+        },
+        {
+            "id": 38,
+            "frase_ingles": "How do I get to the airport?",
+            "traducao": "Como chego ao aeroporto?",
+            "traducao2": "Como vou para o aeroporto?",
+            "traducao3": "Como chegar ao aeroporto?"
+        },
+        {
+            "id": 39,
+            "frase_ingles": "Is there a pharmacy nearby?",
+            "traducao": "Há uma farmácia por perto?",
+            "traducao2": "Existe uma farmácia próxima?",
+            "traducao3": "Tem uma drogaria nas redondezas?"
+        },
+        {
+            "id": 40,
+            "frase_ingles": "What's the weather like today?",
+            "traducao": "Como está o tempo hoje?",
+            "traducao2": "Como é o clima hoje?",
+            "traducao3": "Qual é a previsão do tempo para hoje?"
+        },
+        {
+            "id": 41,
+            "frase_ingles": "I have a cat.",
+            "traducao": "Eu tenho um gato.",
+            "traducao2": "Possuo um gato.",
+            "traducao3": "Tenho um felino."
+        },
+        {
+            "id": 42,
+            "frase_ingles": "Do you have any pets?",
+            "traducao": "Você tem algum animal de estimação?",
+            "traducao2": "Possui algum bichinho de estimação?",
+            "traducao3": "Tem algum pet?"
+        },
+        {
+            "id": 43,
+            "frase_ingles": "I like to read.",
+            "traducao": "Gosto de ler.",
+            "traducao2": "Adoro ler.",
+            "traducao3": "Curto ler."
+        },
+        {
+            "id": 44,
+            "frase_ingles": "I like to listen to music.",
+            "traducao": "Gosto de ouvir música.",
+            "traducao2": "Adoro escutar música.",
+            "traducao3": "Curto ouvir música."
+        },
+        {
+            "id": 45,
+            "frase_ingles": "Can you help me find a hotel?",
+            "traducao": "Você pode me ajudar a encontrar um hotel?",
+            "traducao2": "Você pode me auxiliar a achar um hotel?",
+            "traducao3": "Pode me dar uma mão para localizar um hotel?"
+        },
+        {
+            "id": 46,
+            "frase_ingles": "I'm visiting family.",
+            "traducao": "Estou visitando a família.",
+            "traducao2": "Estou indo ver a família.",
+            "traducao3": "Estou fazendo uma visita à família."
+        },
+        {
+            "id": 47,
+            "frase_ingles": "What's your phone number?",
+            "traducao": "Qual é o seu número de telefone?",
+            "traducao2": "Qual o seu número de celular?",
+            "traducao3": "Me passa seu telefone?"
+        },
+        {
+            "id": 48,
+            "frase_ingles": "Can I borrow a pen?",
+            "traducao": "Posso pegar emprestada uma caneta?",
+            "traducao2": "Posso tomar emprestado uma caneta?",
+            "traducao3": "Posso requerer uma caneta emprestada?"
+        },
+        {
+            "id": 49,
+            "frase_ingles": "I need to go to the store.",
+            "traducao": "Preciso ir à loja.",
+            "traducao2": "Tenho que ir à loja.",
+            "traducao3": "Necessito ir à loja."
+        },
+        {
+            "id": 50,
+            "frase_ingles": "How far is it?",
+            "traducao": "Quão longe é?",
+            "traducao2": "Qual a distância?",
+            "traducao3": "O quão distante está?"
+        },
+        {
+            "id": 51,
+            "frase_ingles": "It's nearby.",
+            "traducao": "É perto.",
+            "traducao2": "Está próximo.",
+            "traducao3": "Fica nas redondezas."
+        },
+        {
+            "id": 52,
+            "frase_ingles": "It's far.",
+            "traducao": "É longe.",
+            "traducao2": "Está distante.",
+            "traducao3": "Fica bem longe."
+        },
+        {
+            "id": 53,
+            "frase_ingles": "Can I take a photo?",
+            "traducao": "Posso tirar uma foto?",
+            "traducao2": "Posso fazer uma fotografia?",
+            "traducao3": "Posso registrar uma imagem?"
+        },
+        {
+            "id": 54,
+            "frase_ingles": "I have a headache.",
+            "traducao": "Estou com dor de cabeça.",
+            "traducao2": "Tenho enxaqueca.",
+            "traducao3": "Estou com uma cefaleia."
+        },
+        {
+            "id": 55,
+            "frase_ingles": "I'm going on vacation.",
+            "traducao": "Vou de férias.",
+            "traducao2": "Estou indo de viagem.",
+            "traducao3": "Estou partindo para as férias."
+        },
+        {
+            "id": 56,
+            "frase_ingles": "Do you have any siblings?",
+            "traducao": "Você tem irmãos?",
+            "traducao2": "Tem irmãos?",
+            "traducao3": "Possui irmãos?"
+        },
+        {
+            "id": 57,
+            "frase_ingles": "Can I pay with a credit card?",
+            "traducao": "Posso pagar com cartão de crédito?",
+            "traducao2": "Posso efetuar o pagamento com cartão de crédito?",
+            "traducao3": "Aceitam cartão de crédito?"
+        },
+        {
+            "id": 58,
+            "frase_ingles": "How do I get to the museum?",
+            "traducao": "Como chego ao museu?",
+            "traducao2": "Qual a rota para o museu?",
+            "traducao3": "Como faço para ir ao museu?"
+        },
+        {
+            "id": 59,
+            "frase_ingles": "Can you recommend a good restaurant?",
+            "traducao": "Você pode recomendar um bom restaurante?",
+            "traducao2": "Pode me indicar um restaurante de qualidade?",
+            "traducao3": "Sabe de um restaurante bom para recomendar?"
+        },
+        {
+            "id": 60,
+            "frase_ingles": "I'm looking for a souvenir.",
+            "traducao": "Estou procurando uma lembrança.",
+            "traducao2": "Estou em busca de uma recordação.",
+            "traducao3": "Quero encontrar um souvenir."
+        },
+        {
+            "id": 61,
+            "frase_ingles": "Can you speak more slowly, please?",
+            "traducao": "Você pode falar mais devagar, por favor?",
+            "traducao2": "Pode diminuir a velocidade ao falar, por gentileza?",
+            "traducao3": "Pode falar mais devagar, por favor?"
+        },
+        {
+            "id": 62,
+            "frase_ingles": "I love your outfit.",
+            "traducao": "Adoro seu visual.",
+            "traducao2": "Seu traje é incrível.",
+            "traducao3": "Estou apaixonado pelo seu figurino."
+        },
+        {
+            "id": 63,
+            "frase_ingles": "Can you recommend a good book?",
+            "traducao": "Você pode recomendar um bom livro?",
+            "traducao2": "Pode indicar um livro de qualidade?",
+            "traducao3": "Sabe de um bom livro para recomendar?"
+        },
+        {
+            "id": 64,
+            "frase_ingles": "What's your favorite food?",
+            "traducao": "Qual é a sua comida favorita?",
+            "traducao2": "O que você mais gosta de comer?",
+            "traducao3": "Qual é o seu prato predileto?"
+        },
+        {
+            "id": 65,
+            "frase_ingles": "I'm a vegetarian.",
+            "traducao": "Sou vegetariano(a).",
+            "traducao2": "Não como carne.",
+            "traducao3": "Tenho uma dieta vegetariana."
+        },
+        {
+            "id": 66,
+            "frase_ingles": "I'm just looking.",
+            "traducao": "Estou apenas olhando.",
+            "traducao2": "Só estou dando uma olhada.",
+            "traducao3": "Apenas estou fazendo uma inspeção."
+        },
+        {
+            "id": 67,
+            "frase_ingles": "I have a reservation.",
+            "traducao": "Tenho uma reserva.",
+            "traducao2": "Fiz uma reserva.",
+            "traducao3": "Tenho um agendamento."
+        },
+        {
+            "id": 68,
+            "frase_ingles": "How do I use this?",
+            "traducao": "Como uso isso?",
+            "traducao2": "Como faço para utilizar isso?",
+            "traducao3": "Como é que se usa isso?"
+        },
+        {
+            "id": 69,
+            "frase_ingles": "I don't have much time.",
+            "traducao": "Não tenho muito tempo.",
+            "traducao2": "Estou com pouco tempo.",
+            "traducao3": "Tenho tempo limitado."
+        },
+        {
+            "id": 70,
+            "frase_ingles": "Can you repeat that?",
+            "traducao": "Você pode repetir isso?",
+            "traducao2": "Pode repetir, por favor?",
+            "traducao3": "Pode repetir o que disse?"
+        },
+        {
+            "id": 71,
+            "frase_ingles": "I need a doctor.",
+            "traducao": "Preciso de um médico.",
+            "traducao2": "Necessito de um médico.",
+            "traducao3": "Estou precisando de um médico."
+        },
+        {
+            "id": 72,
+            "frase_ingles": "Do you accept credit cards?",
+            "traducao": "Você aceita cartões de crédito?",
+            "traducao2": "Aceitam cartões de crédito?",
+            "traducao3": "É possível pagar com cartão de crédito?"
+        },
+        {
+            "id": 73,
+            "frase_ingles": "Can I have a glass of water?",
+            "traducao": "Posso ter um copo de água?",
+            "traducao2": "Pode me trazer um copo de água?",
+            "traducao3": "Gostaria de um copo d'água."
+        },
+        {
+            "id": 74,
+            "frase_ingles": "What's the Wi-Fi password?",
+            "traducao": "Qual é a senha do Wi-Fi?",
+            "traducao2": "Qual a senha para o Wi-Fi?",
+            "traducao3": "A senha da rede Wi-Fi, por favor?"
+        },
+        {
+            "id": 75,
+            "frase_ingles": "I'm lost.",
+            "traducao": "Estou perdido(a).",
+            "traducao2": "Estou desorientado(a).",
+            "traducao3": "Estou sem rumo."
+        },
+        {
+            "id": 76,
+            "frase_ingles": "Can you give me directions?",
+            "traducao": "Você pode me dar direções?",
+            "traducao2": "Pode me indicar o caminho?",
+            "traducao3": "Pode me orientar?"
+        },
+        {
+            "id": 77,
+            "frase_ingles": "Can you recommend a good movie?",
+            "traducao": "Você pode recomendar um bom filme?",
+            "traducao2": "Pode me indicar um filme legal?",
+            "traducao3": "Sabe de um bom filme para recomendar?"
+        },
+        {
+            "id": 78,
+            "frase_ingles": "I'm looking for the nearest ATM.",
+            "traducao": "Estou procurando o caixa eletrônico mais próximo.",
+            "traducao2": "Estou em busca do caixa automático mais próximo.",
+            "traducao3": "Estou tentando localizar o caixa eletrônico mais próximo."
+        },
+        {
+            "id": 79,
+            "frase_ingles": "What's the nearest subway station?",
+            "traducao": "Qual é a estação de metrô mais próxima?",
+            "traducao2": "Onde fica a estação de metrô mais próxima?",
+            "traducao3": "Qual é a estação de metrô mais próxima?"
+        },
+        {
+            "id": 80,
+            "frase_ingles": "How long does it take to get there?",
+            "traducao": "Quanto tempo leva para chegar lá?",
+            "traducao2": "Quanto tempo demora para chegar lá?",
+            "traducao3": "Qual o tempo estimado para chegar lá?"
+        },
+        {
+            "id": 81,
+            "frase_ingles": "I'll have a coffee, please.",
+            "traducao": "Eu vou querer um café, por favor.",
+            "traducao2": "Gostaria de um café, por gentileza.",
+            "traducao3": "Pode me trazer um café, por favor?"
+        },
+        {
+            "id": 82,
+            "frase_ingles": "I'd like a ticket to the museum.",
+            "traducao": "Eu gostaria de um ingresso para o museu.",
+            "traducao2": "Queria um bilhete para o museu.",
+            "traducao3": "Eu queria comprar um bilhete para o museu."
+        },
+        {
+            "id": 83,
+            "frase_ingles": "Can you show me on the map?",
+            "traducao": "Você pode me mostrar no mapa?",
+            "traducao2": "Pode me indicar no mapa?",
+            "traducao3": "Consegue me mostrar no mapa?"
+        },
+        {
+            "id": 84,
+            "frase_ingles": "What's the price of this item?",
+            "traducao": "Qual é o preço deste item?",
+            "traducao2": "Quanto custa este item?",
+            "traducao3": "Pode me dizer o valor deste item?"
+        },
+        {
+            "id": 85,
+            "frase_ingles": "Is this vegetarian?",
+            "traducao": "Isso é vegetariano?",
+            "traducao2": "Isso é feito sem carne?",
+            "traducao3": "Isso é uma opção vegetariana?"
+        },
+        {
+            "id": 86,
+            "frase_ingles": "Can I have some extra sauce?",
+            "traducao": "Posso ter um pouco mais de molho?",
+            "traducao2": "Pode me dar mais molho, por favor?",
+            "traducao3": "Gostaria de um pouco mais de molho."
+        },
+        {
+            "id": 87,
+            "frase_ingles": "I'll have the same as him.",
+            "traducao": "Eu vou querer o mesmo que ele.",
+            "traducao2": "Quero o que ele pediu.",
+            "traducao3": "Gostaria de igual ao dele."
+        },
+        {
+            "id": 88,
+            "frase_ingles": "Do you have a table for two?",
+            "traducao": "Você tem uma mesa para duas pessoas?",
+            "traducao2": "Têm uma mesa para duas pessoas?",
+            "traducao3": "Há uma mesa para dois?"
+        },
+        {
+            "id": 89,
+            "frase_ingles": "Can you recommend a local dish?",
+            "traducao": "Você pode recomendar um prato local?",
+            "traducao2": "Pode sugerir um prato típico?",
+            "traducao3": "Sabe de alguma especialidade local para recomendar?"
+        },
+        {
+            "id": 90,
+            "frase_ingles": "I'm here for a business meeting.",
+            "traducao": "Estou aqui para uma reunião de negócios.",
+            "traducao2": "Vim para uma reunião de trabalho.",
+            "traducao3": "Estou participando de uma reunião de negócios."
+        },
+        {
+            "id": 91,
+            "frase_ingles": "Can you bring the check, please?",
+            "traducao": "Você pode trazer a conta, por favor?",
+            "traducao2": "Pode trazer a conta, por gentileza?",
+            "traducao3": "Pode me trazer a conta?"
+        },
+        {
+            "id": 92,
+            "frase_ingles": "Do you have any vegetarian options?",
+            "traducao": "Você tem opções vegetarianas?",
+            "traducao2": "Têm pratos vegetarianos?",
+            "traducao3": "Oferecem alternativas vegetarianas?"
+        },
+        {
+            "id": 93,
+            "frase_ingles": "What's the Wi-Fi network name?",
+            "traducao": "Qual é o nome da rede Wi-Fi?",
+            "traducao2": "Como se chama a rede Wi-Fi?",
+            "traducao3": "Qual é o nome da rede sem fio?"
+        },
+        {
+            "id": 94,
+            "frase_ingles": "What's the daily special?",
+            "traducao": "Qual é a especialidade do dia?",
+            "traducao2": "O que é o prato especial do dia?",
+            "traducao3": "Qual é a oferta do dia?"
+        },
+        {
+            "id": 95,
+            "frase_ingles": "I need a taxi to the airport.",
+            "traducao": "Preciso de um táxi para o aeroporto.",
+            "traducao2": "Necessito de um táxi para o aeroporto.",
+            "traducao3": "Gostaria de um táxi para o aeroporto."
+        },
+        {
+            "id": 96,
+            "frase_ingles": "Can I have a fork and knife?",
+            "traducao": "Posso ter um garfo e uma faca?",
+            "traducao2": "Pode me dar um garfo e uma faca?",
+            "traducao3": "Gostaria de um garfo e uma faca, por favor."
+        },
+        {
+            "id": 97,
+            "frase_ingles": "How much is a one-way ticket?",
+            "traducao": "Quanto custa uma passagem de ida?",
+            "traducao2": "Qual o preço de um bilhete só de ida?",
+            "traducao3": "Quanto custa uma passagem de um único trajeto?"
+        },
+        {
+            "id": 98,
+            "frase_ingles": "I'll have a glass of red wine.",
+            "traducao": "Eu vou querer um copo de vinho tinto.",
+            "traducao2": "Gostaria de um copo de vinho tinto, por favor.",
+            "traducao3": "Vou querer uma taça de vinho tinto."
+        },
+        {
+            "id": 99,
+            "frase_ingles": "Do you have a menu in English?",
+            "traducao": "Você tem um cardápio em inglês?",
+            "traducao2": "Têm um menu em inglês?",
+            "traducao3": "Possuem um cardápio em inglês?"
+        },
+        {
+            "id": 100,
+            "frase_ingles": "Can I have a to-go box, please?",
+            "traducao": "Posso ter uma embalagem para viagem, por favor?",
+            "traducao2": "Pode me dar uma caixa para viagem, por gentileza?",
+            "traducao3": "Gostaria de uma caixa para levar, por favor."
+        }
+    ],
+    "intermediarios": [
+        {
+            "id": 101,
+            "frase_ingles": "How's it going?",
+            "traducao": "Como está indo?",
+            "traducao2": "Como vai isso?",
+            "traducao3": "Como está indo nisso?"
+        },
+        {
+            "id": 102,
+            "frase_ingles": "What's up?",
+            "traducao": "O que está acontecendo?",
+            "traducao2": "O que está em cima?",
+            "traducao3": "O que está ocorrendo?"
+        },
+        {
+            "id": 103,
+            "frase_ingles": "I'm feeling a bit tired today.",
+            "traducao": "Estou me sentindo um pouco cansado hoje.",
+            "traducao2": "Estou me sentindo um pouco exausto hoje.",
+            "traducao3": "Estou me sentindo um pouco sonolento hoje."
+        },
+        {
+            "id": 104,
+            "frase_ingles": "Can I have a coffee, please?",
+            "traducao": "Posso tomar um café, por favor?",
+            "traducao2": "Posso pegar um café, por favor?",
+            "traducao3": "Posso beber um café, por favor?"
+        },
+        {
+            "id": 105,
+            "frase_ingles": "I'll have a sandwich for lunch.",
+            "traducao": "Vou comer um sanduíche no almoço.",
+            "traducao2": "Vou ter um sanduíche no almoço.",
+            "traducao3": "Vou pedir um sanduíche no almoço."
+        },
+        {
+            "id": 106,
+            "frase_ingles": "I need to go to the grocery store.",
+            "traducao": "Preciso ir ao supermercado.",
+            "traducao2": "Eu preciso ir à mercearia.",
+            "traducao3": "Tenho que ir à loja de conveniência."
+        },
+        {
+            "id": 107,
+            "frase_ingles": "Do you want to go for a walk later?",
+            "traducao": "Você quer dar uma volta mais tarde?",
+            "traducao2": "Você quer passear mais tarde?",
+            "traducao3": "Você deseja caminhar mais tarde?"
+        },
+        {
+            "id": 108,
+            "frase_ingles": "What did you do over the weekend?",
+            "traducao": "O que você fez no fim de semana?",
+            "traducao2": "O que você realizou durante o final de semana?",
+            "traducao3": "O que você fez no fim de semana passado?"
+        },
+        {
+            "id": 109,
+            "frase_ingles": "I'm running late for work.",
+            "traducao": "Estou atrasado para o trabalho.",
+            "traducao2": "Estou correndo atrasado para o trabalho.",
+            "traducao3": "Estou chegando atrasado no trabalho."
+        },
+        {
+            "id": 110,
+            "frase_ingles": "Have a great day!",
+            "traducao": "Tenha um ótimo dia!",
+            "traducao2": "Tenha um dia fantástico!",
+            "traducao3": "Tenha um dia maravilhoso!"
+        },
+        {
+            "id": 111,
+            "frase_ingles": "It's a beautiful day today.",
+            "traducao": "Está um dia lindo hoje.",
+            "traducao2": "Hoje é um dia bonito.",
+            "traducao3": "O dia está bonito hoje."
+        },
+        {
+            "id": 112,
+            "frase_ingles": "I'm meeting a friend for dinner.",
+            "traducao": "Vou encontrar um amigo para jantar.",
+            "traducao2": "Eu vou me encontrar com um amigo para o jantar.",
+            "traducao3": "Estou indo encontrar um amigo para o jantar."
+        },
+        {
+            "id": 113,
+            "frase_ingles": "How's your family doing?",
+            "traducao": "Como está sua família?",
+            "traducao2": "Como vai a sua família?",
+            "traducao3": "Como está a sua família?"
+        },
+        {
+            "id": 114,
+            "frase_ingles": "I like to relax by watching TV.",
+            "traducao": "Gosto de relaxar assistindo TV.",
+            "traducao2": "Eu gosto de descansar assistindo televisão.",
+            "traducao3": "Eu relaxo assistindo TV."
+        },
+        {
+            "id": 115,
+            "frase_ingles": "Can you pass me the salt, please?",
+            "traducao": "Você pode me passar o sal, por favor?",
+            "traducao2": "Você consegue me entregar o sal, por gentileza?",
+            "traducao3": "Você pode me dar o sal, por favor?"
+        },
+        {
+            "id": 116,
+            "frase_ingles": "I'm thinking about redecorating my living room.",
+            "traducao": "Estou pensando em redecorar minha sala de estar.",
+            "traducao2": "Estou considerando redecorar a sala de estar.",
+            "traducao3": "Estou planejando redecorar a sala de estar."
+        },
+        {
+            "id": 117,
+            "frase_ingles": "I have a dentist appointment next week.",
+            "traducao": "Tenho uma consulta com o dentista na próxima semana.",
+            "traducao2": "Tenho um compromisso com o dentista na semana que vem.",
+            "traducao3": "Estou agendado para ir ao dentista na próxima semana."
+        },
+        {
+            "id": 118,
+            "frase_ingles": "Did you catch the latest episode of that show?",
+            "traducao": "Você assistiu ao último episódio daquela série?",
+            "traducao2": "Você pegou o episódio mais recente daquela série?",
+            "traducao3": "Você viu o último capítulo daquela série?"
+        },
+        {
+            "id": 119,
+            "frase_ingles": "I'm not a morning person.",
+            "traducao": "Eu não sou uma pessoa da manhã.",
+            "traducao2": "Não sou alguém que gosta de manhãs.",
+            "traducao3": "Eu não sou uma pessoa matutina."
+        },
+        {
+            "id": 120,
+            "frase_ingles": "Do you have any plans for the weekend?",
+            "traducao": "Você tem planos para o fim de semana?",
+            "traducao2": "Você possui algum plano para o final de semana?",
+            "traducao3": "Você está planejando algo para o fim de semana?"
+        },
+        {
+            "id": 121,
+            "frase_ingles": "I can't make it to the party on Saturday.",
+            "traducao": "Não posso ir à festa no sábado.",
+            "traducao2": "Não consigo comparecer à festa no sábado.",
+            "traducao3": "Não vou poder ir à festa no sábado."
+        },
+        {
+            "id": 122,
+            "frase_ingles": "Let's grab a bite to eat.",
+            "traducao": "Vamos comer algo.",
+            "traducao2": "Vamos pegar uma mordida para comer.",
+            "traducao3": "Vamos dar uma mordida para comer."
+        },
+        {
+            "id": 123,
+            "frase_ingles": "It's too hot outside today.",
+            "traducao": "Está muito quente lá fora hoje.",
+            "traducao2": "Está calor demais do lado de fora hoje.",
+            "traducao3": "Faz muito calor lá fora hoje."
+        },
+        {
+            "id": 124,
+            "frase_ingles": "Can you recommend a good restaurant in the area?",
+            "traducao": "Você pode recomendar um bom restaurante na região?",
+            "traducao2": "Você pode sugerir um restaurante de qualidade na área?",
+            "traducao3": "Você conhece algum restaurante bom na região?"
+        },
+        {
+            "id": 125,
+            "frase_ingles": "I'm going shopping for some new clothes.",
+            "traducao": "Vou fazer compras de roupas novas.",
+            "traducao2": "Vou às compras para roupas novas.",
+            "traducao3": "Estou indo comprar roupas novas."
+        },
+        {
+            "id": 126,
+            "frase_ingles": "How's your new job going?",
+            "traducao": "Como vai seu novo emprego?",
+            "traducao2": "Como está indo o seu novo trabalho?",
+            "traducao3": "Como está o seu novo emprego?"
+        },
+        {
+            "id": 127,
+            "frase_ingles": "I'm taking a day off to relax.",
+            "traducao": "Estou tirando um dia de folga para relaxar.",
+            "traducao2": "Vou folgar um dia para relaxar.",
+            "traducao3": "Estou me dando um dia de descanso para relaxar."
+        },
+        {
+            "id": 128,
+            "frase_ingles": "I'll pick you up at the airport.",
+            "traducao": "Vou buscá-lo no aeroporto.",
+            "traducao2": "Vou te apanhar no aeroporto.",
+            "traducao3": "Eu vou buscar você no aeroporto."
+        },
+        {
+            "id": 129,
+            "frase_ingles": "What's your favorite type of music?",
+            "traducao": "Qual é o seu tipo de música favorito?",
+            "traducao2": "Qual é o gênero musical que você mais gosta?",
+            "traducao3": "Qual estilo de música é o seu preferido?"
+        },
+        {
+            "id": 130,
+            "frase_ingles": "I'm going to the gym to work out.",
+            "traducao": "Vou à academia para malhar.",
+            "traducao2": "Eu vou ao ginásio para fazer exercícios.",
+            "traducao3": "Estou indo à academia para treinar."
+        },
+        {
+            "id": 131,
+            "frase_ingles": "I'll have the same as you, please.",
+            "traducao": "Vou querer a mesma coisa que você, por favor.",
+            "traducao2": "Eu quero o mesmo que você, por gentileza.",
+            "traducao3": "Pode me trazer o mesmo que o seu, por favor?"
+        },
+        {
+            "id": 132,
+            "frase_ingles": "Do you like to cook at home?",
+            "traducao": "Você gosta de cozinhar em casa?",
+            "traducao2": "Você curte cozinhar em sua residência?",
+            "traducao3": "Você aprecia fazer comida em casa?"
+        },
+        {
+            "id": 133,
+            "frase_ingles": "I can't find my keys anywhere.",
+            "traducao": "Não consigo encontrar minhas chaves em lugar nenhum.",
+            "traducao2": "Não acho minhas chaves em lugar algum.",
+            "traducao3": "Minhas chaves sumiram completamente."
+        },
+        {
+            "id": 134,
+            "frase_ingles": "Let's go out for a drink tonight.",
+            "traducao": "Vamos sair para tomar algo esta noite.",
+            "traducao2": "Vamos sair para beber algo hoje à noite.",
+            "traducao3": "Vamos para um drinque esta noite."
+        },
+        {
+            "id": 135,
+            "frase_ingles": "I enjoy spending time in nature.",
+            "traducao": "Gosto de passar tempo na natureza.",
+            "traducao2": "Eu aprecio estar em contato com a natureza.",
+            "traducao3": "Eu curto passar tempo ao ar livre."
+        },
+        {
+            "id": 136,
+            "frase_ingles": "Have you met the new neighbors?",
+            "traducao": "Você conheceu os novos vizinhos?",
+            "traducao2": "Você já se encontrou com os vizinhos novos?",
+            "traducao3": "Você fez amizade com os novos vizinhos?"
+        },
+        {
+            "id": 137,
+            "frase_ingles": "I'm going to visit my grandparents this weekend.",
+            "traducao": "Vou visitar meus avós neste fim de semana.",
+            "traducao2": "Estou indo ver meus avós no final de semana.",
+            "traducao3": "Vou fazer uma visita aos meus avós este fim de semana."
+        },
+        {
+            "id": 138,
+            "frase_ingles": "How's your day been so far?",
+            "traducao": "Como tem sido o seu dia até agora?",
+            "traducao2": "Como foi o seu dia até o momento?",
+            "traducao3": "Como está indo o seu dia até agora?"
+        },
+        {
+            "id": 139,
+            "frase_ingles": "I need to do some cleaning around the house.",
+            "traducao": "Preciso fazer uma limpeza em casa.",
+            "traducao2": "Eu tenho que fazer umas faxinas na casa.",
+            "traducao3": "Necessito limpar a casa um pouco."
+        },
+        {
+            "id": 140,
+            "frase_ingles": "Can you give me a hand with this?",
+            "traducao": "Você pode me dar uma mão com isso?",
+            "traducao2": "Você poderia me ajudar com isso?",
+            "traducao3": "Você poderia me dar uma ajuda com isso?"
+        },
+        {
+            "id": 141,
+            "frase_ingles": "I'm looking for a new book to read.",
+            "traducao": "Estou procurando um livro novo para ler.",
+            "traducao2": "Estou em busca de um livro novo para ler.",
+            "traducao3": "Estou à procura de um novo livro para leitura."
+        },
+        {
+            "id": 142,
+            "frase_ingles": "Let's go to the park and relax.",
+            "traducao": "Vamos ao parque e relaxar.",
+            "traducao2": "Vamos ao parque para relaxar um pouco.",
+            "traducao3": "Que tal irmos ao parque para descansar?"
+        },
+        {
+            "id": 143,
+            "frase_ingles": "I need to buy some groceries for the week.",
+            "traducao": "Preciso comprar mantimentos para a semana.",
+            "traducao2": "Eu tenho que fazer compras para a semana.",
+            "traducao3": "Estou precisando abastecer a despensa para a semana."
+        },
+        {
+            "id": 144,
+            "frase_ingles": "How's your pet doing?",
+            "traducao": "Como está seu animal de estimação?",
+            "traducao2": "Como vai o seu bichinho de estimação?",
+            "traducao3": "Como anda o seu pet?"
+        },
+        {
+            "id": 145,
+            "frase_ingles": "I'm trying to eat healthier these days.",
+            "traducao": "Estou tentando comer mais saudável nos dias de hoje.",
+            "traducao2": "Estou fazendo um esforço para ter uma alimentação mais saudável ultimamente.",
+            "traducao3": "Estou buscando uma alimentação mais saudável atualmente."
+        },
+        {
+            "id": 146,
+            "frase_ingles": "I'm going to take a quick nap.",
+            "traducao": "Vou tirar um cochilo rápido.",
+            "traducao2": "Vou fazer uma soneca rápida.",
+            "traducao3": "Estou indo cochilar rapidamente."
+        },
+        {
+            "id": 147,
+            "frase_ingles": "I'll have a glass of water, please.",
+            "traducao": "Vou querer um copo de água, por favor.",
+            "traducao2": "Eu gostaria de um copo de água, por gentileza.",
+            "traducao3": "Pode me trazer um copo de água, por favor?"
+        },
+        {
+            "id": 148,
+            "frase_ingles": "Did you watch the game last night?",
+            "traducao": "Você assistiu ao jogo ontem à noite?",
+            "traducao2": "Você viu a partida ontem à noite?",
+            "traducao3": "Você acompanhou o jogo ontem à noite?"
+        },
+        {
+            "id": 149,
+            "frase_ingles": "I need to get my car serviced.",
+            "traducao": "Preciso levar meu carro para a revisão.",
+            "traducao2": "Tenho que levar meu carro para manutenção.",
+            "traducao3": "Necessito fazer a manutenção do meu carro."
+        },
+        {
+            "id": 150,
+            "frase_ingles": "It's a beautiful sunset.",
+            "traducao": "É um pôr do sol lindo.",
+            "traducao2": "Está um pôr do sol maravilhoso.",
+            "traducao3": "Que belo pôr do sol."
+        },
+        {
+            "id": 151,
+            "frase_ingles": "Let's go out for a movie this weekend.",
+            "traducao": "Vamos ao cinema neste fim de semana.",
+            "traducao2": "Vamos sair para ver um filme neste fim de semana.",
+            "traducao3": "Que tal irmos ao cinema no fim de semana?"
+        },
+        {
+            "id": 152,
+            "frase_ingles": "Can you recommend a good place to go hiking?",
+            "traducao": "Você pode recomendar um bom lugar para fazer trilhas?",
+            "traducao2": "Você sabe de um bom lugar para fazer trilhas?",
+            "traducao3": "Você conhece um local bacana para caminhadas?"
+        },
+        {
+            "id": 153,
+            "frase_ingles": "I'm trying to cut down on junk food.",
+            "traducao": "Estou tentando reduzir o consumo de comida junk.",
+            "traducao2": "Estou buscando diminuir a ingestão de junk food.",
+            "traducao3": "Estou querendo cortar a comida junk."
+        },
+        {
+            "id": 154,
+            "frase_ingles": "How's your new phone working out?",
+            "traducao": "Como está funcionando o seu novo telefone?",
+            "traducao2": "Como está se saindo o seu novo celular?",
+            "traducao3": "O que você achou do seu novo telefone?"
+        },
+        {
+            "id": 155,
+            "frase_ingles": "I'm thinking of getting a new haircut.",
+            "traducao": "Estou pensando em fazer um novo corte de cabelo.",
+            "traducao2": "Estou cogitando cortar o cabelo de um jeito novo.",
+            "traducao3": "Estou considerando mudar o corte de cabelo."
+        },
+        {
+            "id": 156,
+            "frase_ingles": "I'll take a rain check on that offer.",
+            "traducao": "Vou aceitar sua oferta em outra ocasião.",
+            "traducao2": "Vou adiar sua oferta para outra hora.",
+            "traducao3": "Vou aceitar sua oferta posteriormente."
+        },
+        {
+            "id": 157,
+            "frase_ingles": "I'm looking for a good book to read.",
+            "traducao": "Estou procurando um bom livro para ler.",
+            "traducao2": "Estou em busca de um livro interessante para a leitura.",
+            "traducao3": "Estou querendo encontrar um livro bom para ler."
+        },
+        {
+            "id": 158,
+            "frase_ingles": "I'll need a ride to the airport tomorrow.",
+            "traducao": "Vou precisar de uma carona para o aeroporto amanhã.",
+            "traducao2": "Vou necessitar de uma viagem para o aeroporto amanhã.",
+            "traducao3": "Vou precisar que alguém me leve ao aeroporto amanhã."
+        },
+        {
+            "id": 159,
+            "frase_ingles": "Have you tried the new restaurant downtown?",
+            "traducao": "Você experimentou o novo restaurante no centro?",
+            "traducao2": "Você já foi ao novo restaurante no centro?",
+            "traducao3": "Você deu uma chance ao novo restaurante no centro?"
+        },
+        {
+            "id": 160,
+            "frase_ingles": "I'm going to need a vacation soon.",
+            "traducao": "Vou precisar de férias em breve.",
+            "traducao2": "Vou ter que tirar umas férias em breve.",
+            "traducao3": "Vou necessitar de um período de descanso em breve."
+        },
+        {
+            "id": 161,
+            "frase_ingles": "I love going to the beach in the summer.",
+            "traducao": "Adoro ir à praia no verão.",
+            "traducao2": "Amo ir à praia durante o verão.",
+            "traducao3": "Eu gosto de ir para a praia no verão."
+        },
+        {
+            "id": 162,
+            "frase_ingles": "I need to get my computer fixed.",
+            "traducao": "Preciso consertar meu computador.",
+            "traducao2": "Tenho que arrumar meu computador.",
+            "traducao3": "Estou precisando consertar meu computador."
+        },
+        {
+            "id": 163,
+            "frase_ingles": "How's your garden coming along?",
+            "traducao": "Como está indo o seu jardim?",
+            "traducao2": "Como está progredindo o seu jardim?",
+            "traducao3": "Como está evoluindo o seu jardim?"
+        },
+        {
+            "id": 164,
+            "frase_ingles": "I'm thinking of taking a short trip.",
+            "traducao": "Estou pensando em fazer uma viagem curta.",
+            "traducao2": "Estou considerando fazer uma viagem rápida.",
+            "traducao3": "Estou cogitando uma viagem curta."
+        },
+        {
+            "id": 165,
+            "frase_ingles": "I'll have the salad, please.",
+            "traducao": "Vou querer a salada, por favor.",
+            "traducao2": "Eu gostaria da salada, por favor.",
+            "traducao3": "Eu vou pedir a salada, por gentileza."
+        },
+        {
+            "id": 166,
+            "frase_ingles": "Do you enjoy going to music concerts?",
+            "traducao": "Você gosta de ir a concertos de música?",
+            "traducao2": "Você curte ir a shows de música?",
+            "traducao3": "Você aprecia ir a concertos de música?"
+        },
+        {
+            "id": 167,
+            "frase_ingles": "I'm going to paint my living room.",
+            "traducao": "Vou pintar minha sala de estar.",
+            "traducao2": "Eu vou dar uma nova cor para a sala de estar.",
+            "traducao3": "Vou mudar a cor da minha sala de estar."
+        },
+        {
+            "id": 168,
+            "frase_ingles": "Let's go to the local farmers' market.",
+            "traducao": "Vamos ao mercado de produtores locais.",
+            "traducao2": "Que tal irmos ao mercado de agricultores local?",
+            "traducao3": "Vamos dar um pulo no mercado dos agricultores locais."
+        },
+        {
+            "id": 169,
+            "frase_ingles": "I have a meeting at the office this afternoon.",
+            "traducao": "Tenho uma reunião no escritório esta tarde.",
+            "traducao2": "Tenho um encontro no escritório mais tarde.",
+            "traducao3": "Tenho uma reunião de trabalho à tarde."
+        },
+        {
+            "id": 170,
+            "frase_ingles": "Have you been to the new cafe in town?",
+            "traducao": "Você já esteve no novo café da cidade?",
+            "traducao2": "Você experimentou o novo café na cidade?",
+            "traducao3": "Você visitou o novo café da cidade?"
+        },
+        {
+            "id": 171,
+            "frase_ingles": "I'm trying to get in shape through exercise.",
+            "traducao": "Estou tentando entrar em forma através do exercício.",
+            "traducao2": "Estou buscando melhorar minha forma física com exercícios.",
+            "traducao3": "Estou tentando me condicionar por meio do exercício."
+        },
+        {
+            "id": 172,
+            "frase_ingles": "I need to buy a birthday card for my sister.",
+            "traducao": "Preciso comprar um cartão de aniversário para minha irmã.",
+            "traducao2": "Tenho que adquirir um cartão de aniversário para minha irmã.",
+            "traducao3": "Estou precisando de um cartão de aniversário para minha irmã."
+        },
+        {
+            "id": 173,
+            "frase_ingles": "How's your day looking tomorrow?",
+            "traducao": "Como está parecendo seu dia para amanhã?",
+            "traducao2": "Como está o seu dia amanhã?",
+            "traducao3": "Como será seu dia amanhã?"
+        },
+        {
+            "id": 174,
+            "frase_ingles": "I'm going to have lunch with some colleagues.",
+            "traducao": "Vou almoçar com alguns colegas.",
+            "traducao2": "Vou almoçar com alguns companheiros de trabalho.",
+            "traducao3": "Vou almoçar com alguns colegas de escritório."
+        },
+        {
+            "id": 175,
+            "frase_ingles": "I'm thinking of redecorating my bedroom.",
+            "traducao": "Estou pensando em redecorar meu quarto.",
+            "traducao2": "Estou considerando redecorar meu quarto.",
+            "traducao3": "Estou planejando redecorar meu quarto."
+        },
+        {
+            "id": 176,
+            "frase_ingles": "I need to clean out the garage.",
+            "traducao": "Preciso limpar a garagem.",
+            "traducao2": "Tenho que fazer uma limpeza na garagem.",
+            "traducao3": "Necessito arrumar a garagem."
+        },
+        {
+            "id": 177,
+            "frase_ingles": "I'll have a glass of red wine, please.",
+            "traducao": "Vou querer um copo de vinho tinto, por favor.",
+            "traducao2": "Eu gostaria de uma taça de vinho tinto, por favor.",
+            "traducao3": "Eu vou pedir um copo de vinho tinto, por gentileza."
+        },
+        {
+            "id": 178,
+            "frase_ingles": "Have you tried the new coffee shop on Main Street?",
+            "traducao": "Você experimentou o novo café na Rua Principal?",
+            "traducao2": "Você já provou o novo café na Rua Principal?",
+            "traducao3": "Você deu uma chance ao novo café na Rua Principal?"
+        },
+        {
+            "id": 179,
+            "frase_ingles": "I'm going to get my car washed today.",
+            "traducao": "Vou lavar meu carro hoje.",
+            "traducao2": "Vou levar meu carro para lavar hoje.",
+            "traducao3": "Hoje, meu carro vai passar pelo lava-rápido."
+        },
+        {
+            "id": 180,
+            "frase_ingles": "How's your week been so far?",
+            "traducao": "Como foi sua semana até agora?",
+            "traducao2": "Como tem sido sua semana até agora?",
+            "traducao3": "Como anda sua semana até agora?"
+        },
+        {
+            "id": 181,
+            "frase_ingles": "I'm going to attend a family gathering this weekend.",
+            "traducao": "Vou participar de uma reunião de família neste fim de semana.",
+            "traducao2": "Vou comparecer a um encontro familiar no final de semana.",
+            "traducao3": "Este fim de semana, estarei em um encontro com a família."
+        },
+        {
+            "id": 182,
+            "frase_ingles": "I'll have a piece of cake, please.",
+            "traducao": "Vou querer um pedaço de bolo, por favor.",
+            "traducao2": "Eu gostaria de uma fatia de bolo, por gentileza.",
+            "traducao3": "Eu vou pedir um pedaço de bolo, por favor."
+        },
+        {
+            "id": 183,
+            "frase_ingles": "Do you like to go for long walks in the park?",
+            "traducao": "Você gosta de fazer longas caminhadas no parque?",
+            "traducao2": "Você curte fazer caminhadas longas no parque?",
+            "traducao3": "Você aprecia passeios longos no parque?"
+        },
+        {
+            "id": 184,
+            "frase_ingles": "I'm thinking of starting a new hobby.",
+            "traducao": "Estou pensando em começar um novo hobby.",
+            "traducao2": "Estou considerando adotar um novo passatempo.",
+            "traducao3": "Estou planejando iniciar um novo hobby."
+        },
+        {
+            "id": 185,
+            "frase_ingles": "I need to replace the light bulbs in the house.",
+            "traducao": "Preciso substituir as lâmpadas da casa.",
+            "traducao2": "Tenho que trocar as lâmpadas da casa.",
+            "traducao3": "Necessito trocar as lâmpadas da residência."
+        },
+        {
+            "id": 186,
+            "frase_ingles": "How's your day looking for tomorrow?",
+            "traducao": "Como está parecendo seu dia para amanhã?",
+            "traducao2": "Como está o seu dia para amanhã?",
+            "traducao3": "Como será seu dia amanhã?"
+        },
+        {
+            "id": 187,
+            "frase_ingles": "I'm going to visit some old friends.",
+            "traducao": "Vou visitar alguns amigos antigos.",
+            "traducao2": "Vou encontrar alguns amigos de longa data.",
+            "traducao3": "Vou fazer uma visita a velhos amigos."
+        },
+        {
+            "id": 188,
+            "frase_ingles": "I'll have a cup of tea, please.",
+            "traducao": "Vou querer uma xícara de chá, por favor.",
+            "traducao2": "Eu gostaria de uma xícara de chá, por gentileza.",
+            "traducao3": "Eu vou pedir uma xícara de chá, por favor."
+        },
+        {
+            "id": 189,
+            "frase_ingles": "Have you been to the new bookstore downtown?",
+            "traducao": "Você esteve na nova livraria no centro?",
+            "traducao2": "Você já visitou a nova livraria no centro?",
+            "traducao3": "Você deu uma olhada na nova livraria no centro?"
+        },
+        {
+            "id": 190,
+            "frase_ingles": "I'm going to plant some flowers in the garden.",
+            "traducao": "Vou plantar algumas flores no jardim.",
+            "traducao2": "Vou colocar algumas flores no jardim.",
+            "traducao3": "Vou cultivar flores no jardim."
+        },
+        {
+            "id": 191,
+            "frase_ingles": "I'm thinking of trying a new restaurant for dinner.",
+            "traducao": "Estou pensando em experimentar um novo restaurante para o jantar.",
+            "traducao2": "Estou cogitando ir a um restaurante novo para o jantar.",
+            "traducao3": "Estou considerando um novo restaurante para o jantar."
+        },
+        {
+            "id": 192,
+            "frase_ingles": "I need to organize my closet.",
+            "traducao": "Preciso organizar meu armário.",
+            "traducao2": "Tenho que arrumar meu guarda-roupa.",
+            "traducao3": "Estou precisando organizar meu armário."
+        },
+        {
+            "id": 193,
+            "frase_ingles": "How's your weekend looking?",
+            "traducao": "Como está parecendo seu fim de semana?",
+            "traducao2": "Como será seu fim de semana?",
+            "traducao3": "Como está indo seu fim de semana?"
+        },
+        {
+            "id": 194,
+            "frase_ingles": "I'm going to bake some cookies.",
+            "traducao": "Vou assar alguns biscoitos.",
+            "traducao2": "Vou preparar alguns cookies no forno.",
+            "traducao3": "Vou fazer alguns biscoitos assados."
+        },
+        {
+            "id": 195,
+            "frase_ingles": "I'll have a slice of pizza, please.",
+            "traducao": "Vou querer um pedaço de pizza, por favor.",
+            "traducao2": "Eu gostaria de uma fatia de pizza, por gentileza.",
+            "traducao3": "Eu vou pedir uma fatia de pizza, por favor."
+        },
+        {
+            "id": 196,
+            "frase_ingles": "Have you ever been to the top of the mountain?",
+            "traducao": "Você já esteve no topo da montanha?",
+            "traducao2": "Você já subiu ao cume da montanha?",
+            "traducao3": "Você já visitou o pico da montanha?"
+        },
+        {
+            "id": 197,
+            "frase_ingles": "I'm thinking of buying a new car.",
+            "traducao": "Estou pensando em comprar um carro.",
+            "traducao2": "Estou cogitando adquirir um automóvel novo.",
+            "traducao3": "Estou considerando a compra de um carro novo."
+        },
+        {
+            "id": 198,
+            "frase_ingles": "I need to clean the attic.",
+            "traducao": "Preciso limpar o sótão.",
+            "traducao2": "Tenho que fazer a limpeza do sótão.",
+            "traducao3": "Necessito arrumar o sótão."
+        },
+        {
+            "id": 199,
+            "frase_ingles": "How's your cooking skills coming along?",
+            "traducao": "Como estão indo suas habilidades culinárias?",
+            "traducao2": "Como está progredindo sua habilidade na cozinha?",
+            "traducao3": "Como estão evoluindo suas habilidades de culinária?"
+        },
+        {
+            "id": 200,
+            "frase_ingles": "I'm planning a trip to Europe.",
+            "traducao": "Estou planejando uma viagem para a Europa.",
+            "traducao2": "Estou programando uma viagem à Europa.",
+            "traducao3": "Estou organizando uma viagem pela Europa."
+        }
+    ],
+    "avancados": [
+        {
+            "id": 201,
+            "frase_ingles": "He's a renowned scientist.",
+            "traducao": "Ela é uma cientista renomada.",
+            "traducao2": "Ele é um cientista renomado.",
+            "traducao3": "Eles são cientistas renomados."
+        },
+        {
+            "id": 202,
+            "frase_ingles": "He's a seasoned journalist.",
+            "traducao": "Ele é um jornalista experiente.",
+            "traducao2": "Ela é uma jornalista experiente.",
+            "traducao3": "Eles são jornalistas experientes."
+        },
+        {
+            "id": 203,
+            "frase_ingles": "I'm deeply curious about space.",
+            "traducao": "Tenho uma grande curiosidade pelo espaço.",
+            "traducao2": "Tenho uma grande curiosidade pela astronomia.",
+            "traducao3": "Tenho uma grande curiosidade por coisas espaciais."
+        },
+        {
+            "id": 204,
+            "frase_ingles": "Can you explain chaos theory?",
+            "traducao": "Você pode explicar a teoria do caos?",
+            "traducao2": "Você pode explicar a teoria do caos cósmico?",
+            "traducao3": "Você pode explicar a teoria do caos urbano?"
+        },
+        {
+            "id": 205,
+            "frase_ingles": "I love classical music.",
+            "traducao": "Eu amo música clássica.",
+            "traducao2": "Eu amo música clássica.",
+            "traducao3": "Eu amo música de concerto."
+        },
+        {
+            "id": 206,
+            "frase_ingles": "He's an expert in linguistics.",
+            "traducao": "Ele é um especialista em linguística.",
+            "traducao2": "Ela é uma expert em linguística.",
+            "traducao3": "Eles são experts em linguística."
+        },
+        {
+            "id": 207,
+            "frase_ingles": "She's a talented pianist.",
+            "traducao": "Ela é uma talentosa pianista.",
+            "traducao2": "Ele é um talentoso pianista.",
+            "traducao3": "Eles são talentosos pianistas."
+        },
+        {
+            "id": 208,
+            "frase_ingles": "How does quantum physics work?",
+            "traducao": "Como funciona a física quântica?",
+            "traducao2": "Como funciona a física quântica?",
+            "traducao3": "Como funciona a física de partículas?"
+        },
+        {
+            "id": 209,
+            "frase_ingles": "He's a published author.",
+            "traducao": "Ele é um autor publicado.",
+            "traducao2": "Ela é uma autora publicada.",
+            "traducao3": "Eles são autores publicados."
+        },
+        {
+            "id": 210,
+            "frase_ingles": "I'm passionate about environmental issues.",
+            "traducao": "Sou apaixonado por questões ambientais.",
+            "traducao2": "Sou apaixonado por questões ecológicas.",
+            "traducao3": "Sou apaixonado por problemas ambientais."
+        },
+        {
+            "id": 211,
+            "frase_ingles": "Can you discuss postmodern art?",
+            "traducao": "Você pode discutir arte pós-moderna?",
+            "traducao2": "Você pode discutir arte contemporânea?",
+            "traducao3": "Você pode discutir arte moderna?"
+        },
+        {
+            "id": 212,
+            "frase_ingles": "I'm into sustainable living.",
+            "traducao": "Estou envolvido com o estilo de vida sustentável.",
+            "traducao2": "Estou envolvido com o modo de vida sustentável.",
+            "traducao3": "Estou envolvido com o viver sustentável."
+        },
+        {
+            "id": 213,
+            "frase_ingles": "She's a respected historian.",
+            "traducao": "Ela é uma historiadora respeitada.",
+            "traducao2": "Ele é um historiador respeitado.",
+            "traducao3": "Eles são historiadores respeitados."
+        },
+        {
+            "id": 214,
+            "frase_ingles": "He's a cybersecurity expert.",
+            "traducao": "Ele é um especialista em cibersegurança.",
+            "traducao2": "Ela é uma especialista em segurança cibernética.",
+            "traducao3": "Eles são especialistas em proteção digital."
+        },
+        {
+            "id": 215,
+            "frase_ingles": "Can you analyze market trends?",
+            "traducao": "Você pode analisar as tendências do mercado?",
+            "traducao2": "Você pode analisar as tendências econômicas?",
+            "traducao3": "Você pode analisar os movimentos do mercado?"
+        },
+        {
+            "id": 216,
+            "frase_ingles": "I'm an advocate for human rights.",
+            "traducao": "Sou defensor dos direitos humanos.",
+            "traducao2": "Sou um defensor dos direitos civis.",
+            "traducao3": "Sou um ativista pelos direitos da pessoa."
+        },
+        {
+            "id": 217,
+            "frase_ingles": "How do you view climate change?",
+            "traducao": "Como você vê as mudanças climáticas?",
+            "traducao2": "Como você enxerga a mudança climática?",
+            "traducao3": "Como você percebe a alteração do clima?"
+        },
+        {
+            "id": 218,
+            "frase_ingles": "She's a connoisseur of fine wine.",
+            "traducao": "Ela é uma conhecedora de vinhos finos.",
+            "traducao2": "Ele é um conhecedor de vinhos de qualidade.",
+            "traducao3": "Eles são conhecedores de vinhos requintados."
+        },
+        {
+            "id": 219,
+            "frase_ingles": "I'm an avid reader.",
+            "traducao": "Sou um leitor ávido.",
+            "traducao2": "Sou uma leitora ávida.",
+            "traducao3": "Eles são leitores ávidos."
+        },
+        {
+            "id": 220,
+            "frase_ingles": "Can you interpret contemporary art?",
+            "traducao": "Você pode interpretar a arte contemporânea?",
+            "traducao2": "Você pode interpretar a arte moderna?",
+            "traducao3": "Você pode interpretar a arte atual?"
+        },
+        {
+            "id": 221,
+            "frase_ingles": "He's a renowned philosopher.",
+            "traducao": "Ele é um filósofo renomado.",
+            "traducao2": "Ela é uma filósofa renomada.",
+            "traducao3": "Eles são filósofos renomados."
+        },
+        {
+            "id": 222,
+            "frase_ingles": "I'm exploring quantum mechanics.",
+            "traducao": "Estou explorando a mecânica quântica.",
+            "traducao2": "Estou investigando a física quântica.",
+            "traducao3": "Estou descobrindo a teoria quântica."
+        },
+        {
+            "id": 223,
+            "frase_ingles": "She's an authority on geopolitics.",
+            "traducao": "Ela é uma autoridade em geopolítica.",
+            "traducao2": "Ele é uma autoridade em geopolítica.",
+            "traducao3": "Eles são autoridades em geopolítica."
+        },
+        {
+            "id": 224,
+            "frase_ingles": "How do you see artificial intelligence?",
+            "traducao": "Como você enxerga a inteligência artificial?",
+            "traducao2": "Como você percebe a IA?",
+            "traducao3": "Como você interpreta a inteligência artificial?"
+        },
+        {
+            "id": 225,
+            "frase_ingles": "I'm fascinated by astrophysics.",
+            "traducao": "Sou fascinado pela astrofísica.",
+            "traducao2": "Sou apaixonado por astrofísica.",
+            "traducao3": "Sou obcecado por astrofísica."
+        },
+        {
+            "id": 226,
+            "frase_ingles": "Can you discuss postcolonial literature?",
+            "traducao": "Você pode discutir a literatura pós-colonial?",
+            "traducao2": "Você pode conversar sobre a literatura do pós-colonialismo?",
+            "traducao3": "Você pode debater a literatura após o colonialismo?"
+        },
+        {
+            "id": 227,
+            "frase_ingles": "He's a neurobiology enthusiast.",
+            "traducao": "Ele é um entusiasta da neurobiologia.",
+            "traducao2": "Ela é uma entusiasta da neurobiologia.",
+            "traducao3": "Eles são entusiastas da neurobiologia."
+        },
+        {
+            "id": 228,
+            "frase_ingles": "I'm delving into nanotechnology.",
+            "traducao": "Estou me aprofundando na nanotecnologia.",
+            "traducao2": "Estou explorando a nanotecnologia.",
+            "traducao3": "Estou investigando a nanotecnologia."
+        },
+        {
+            "id": 229,
+            "frase_ingles": "She's a connoisseur of gourmet cuisine.",
+            "traducao": "Ela é uma conhecedora de culinária gourmet.",
+            "traducao2": "Ele é um conhecedor de alta gastronomia.",
+            "traducao3": "Eles são conhecedores de pratos requintados."
+        },
+        {
+            "id": 230,
+            "frase_ingles": "How do you perceive art's impact on society?",
+            "traducao": "Como você percebe o impacto da arte na sociedade?",
+            "traducao2": "Como você vê a influência da arte na sociedade?",
+            "traducao3": "Como você interpreta a arte e seu impacto na sociedade?"
+        },
+        {
+            "id": 231,
+            "frase_ingles": "I'm deeply interested in urban planning.",
+            "traducao": "Tenho grande interesse em planejamento urbano.",
+            "traducao2": "Estou muito interessado em urbanismo.",
+            "traducao3": "Tenho grande paixão pelo planejamento das cidades."
+        },
+        {
+            "id": 232,
+            "frase_ingles": "Can you explain the Big Bang theory?",
+            "traducao": "Você pode explicar a teoria do Big Bang?",
+            "traducao2": "Você pode explicar a teoria da grande explosão?",
+            "traducao3": "Você pode elucidar a teoria da origem do universo?"
+        },
+        {
+            "id": 233,
+            "frase_ingles": "He's a connoisseur of vintage cars.",
+            "traducao": "Ele é um conhecedor de carros antigos.",
+            "traducao2": "Ela é uma conhecedora de veículos clássicos.",
+            "traducao3": "Eles são conhecedores de automóveis antigos."
+        },
+        {
+            "id": 234,
+            "frase_ingles": "I'm enthusiastic about renewable energy.",
+            "traducao": "Sou entusiasta de energia renovável.",
+            "traducao2": "Estou empolgado com fontes de energia limpa.",
+            "traducao3": "Estou apaixonado por energias renováveis."
+        },
+        {
+            "id": 235,
+            "frase_ingles": "Can you analyze political ideologies?",
+            "traducao": "Você pode analisar ideologias políticas?",
+            "traducao2": "Você pode examinar ideologias políticas?",
+            "traducao3": "Você pode avaliar correntes políticas?"
+        },
+        {
+            "id": 236,
+            "frase_ingles": "She's an advocate for gender equality.",
+            "traducao": "Ela é uma defensora da igualdade de gênero.",
+            "traducao2": "Ele é um defensor da equidade de gênero.",
+            "traducao3": "Eles são defensores da igualdade de gênero."
+        },
+        {
+            "id": 237,
+            "frase_ingles": "How do you view post-truth politics?",
+            "traducao": "Como você vê a política pós-verdade?",
+            "traducao2": "Como você percebe a política da pós-verdade?",
+            "traducao3": "Como você interpreta a política pós-fato?"
+        },
+        {
+            "id": 238,
+            "frase_ingles": "I'm passionate about space exploration.",
+            "traducao": "Sou apaixonado pela exploração espacial.",
+            "traducao2": "Estou obcecado com a exploração do espaço.",
+            "traducao3": "Tenho grande paixão pela pesquisa espacial."
+        },
+        {
+            "id": 239,
+            "frase_ingles": "He's an aficionado of fine art.",
+            "traducao": "Ele é um aficionado em belas artes.",
+            "traducao2": "Ela é uma amante das belas artes.",
+            "traducao3": "Eles são entusiastas de obras de arte finas."
+        },
+        {
+            "id": 240,
+            "frase_ingles": "Can you elucidate the theory of relativity?",
+            "traducao": "Você pode elucidar a teoria da relatividade?",
+            "traducao2": "Você pode esclarecer a teoria da relatividade?",
+            "traducao3": "Você pode explicar a teoria das relações espaciais?"
+        },
+        {
+            "id": 241,
+            "frase_ingles": "I'm deeply interested in artificial intelligence.",
+            "traducao": "Tenho grande interesse em inteligência artificial.",
+            "traducao2": "Estou profundamente interessado em IA.",
+            "traducao3": "Tenho grande curiosidade sobre inteligência artificial."
+        },
+        {
+            "id": 242,
+            "frase_ingles": "She's a pioneer in biotechnology.",
+            "traducao": "Ela é pioneira em biotecnologia.",
+            "traducao2": "Ele é um pioneiro em biotecnologia.",
+            "traducao3": "Eles são pioneiros em biotecnologia."
+        },
+        {
+            "id": 243,
+            "frase_ingles": "How do you interpret modern architecture?",
+            "traducao": "Como você interpreta a arquitetura moderna?",
+            "traducao2": "Como você vê a arquitetura contemporânea?",
+            "traducao3": "Como você entende a arquitetura atual?"
+        },
+        {
+            "id": 244,
+            "frase_ingles": "I'm enthusiastic about environmental conservation.",
+            "traducao": "Sou entusiasta da conservação ambiental.",
+            "traducao2": "Estou empolgado com a preservação do meio ambiente.",
+            "traducao3": "Estou apaixonado pela proteção do ecossistema."
+        },
+        {
+            "id": 245,
+            "frase_ingles": "Can you analyze economic globalization?",
+            "traducao": "Você pode analisar a globalização econômica?",
+            "traducao2": "Você pode examinar a globalização econômica?",
+            "traducao3": "Você pode avaliar a globalização financeira?"
+        },
+        {
+            "id": 246,
+            "frase_ingles": "He's a connoisseur of rare books.",
+            "traducao": "Ele é um conhecedor de livros raros.",
+            "traducao2": "Ela é uma especialista em livros raros.",
+            "traducao3": "Eles são especialistas em obras raras."
+        },
+        {
+            "id": 247,
+            "frase_ingles": "I'm passionate about social justice.",
+            "traducao": "Sou apaixonado por justiça social.",
+            "traducao2": "Estou obcecado com a justiça social.",
+            "traducao3": "Tenho grande amor pela igualdade social."
+        },
+        {
+            "id": 248,
+            "frase_ingles": "Can you discuss quantum entanglement?",
+            "traducao": "Você pode discutir o entrelaçamento quântico?",
+            "traducao2": "Você pode debater a interligação quântica?",
+            "traducao3": "Você pode conversar sobre a conexão quântica?"
+        },
+        {
+            "id": 249,
+            "frase_ingles": "She's an expert in artificial intelligence ethics.",
+            "traducao": "Ela é uma especialista em ética da inteligência artificial.",
+            "traducao2": "Ele é um especialista em ética de IA.",
+            "traducao3": "Eles são especialistas em ética de inteligência artificial."
+        },
+        {
+            "id": 250,
+            "frase_ingles": "How do you see the future of genetic engineering?",
+            "traducao": "Como você enxerga o futuro da engenharia genética?",
+            "traducao2": "Como você percebe o futuro da engenharia genética?",
+            "traducao3": "Como você interpreta o futuro da engenharia genética?"
+        },
+        {
+            "id": 251,
+            "frase_ingles": "I'm fascinated by the intricacies of cultural heritage.",
+            "traducao": "Sou fascinado pelas complexidades do patrimônio cultural.",
+            "traducao2": "Estou encantado com os detalhes do patrimônio cultural.",
+            "traducao3": "Estou obcecado pelos pormenores do legado cultural."
+        },
+        {
+            "id": 252,
+            "frase_ingles": "Can you explain the concept of dark matter?",
+            "traducao": "Você pode elucidar o conceito de matéria escura?",
+            "traducao2": "Você pode explicar o conceito de massa escura?",
+            "traducao3": "Você pode esclarecer o conceito de substância escura?"
+        },
+        {
+            "id": 253,
+            "frase_ingles": "He's a leading expert in cybersecurity.",
+            "traducao": "Ele é um dos principais especialistas em cibersegurança.",
+            "traducao2": "Ela é uma das principais especialistas em segurança cibernética.",
+            "traducao3": "Eles são alguns dos principais especialistas em segurança digital."
+        },
+        {
+            "id": 254,
+            "frase_ingles": "I'm deeply interested in space exploration.",
+            "traducao": "Tenho grande interesse na exploração espacial.",
+            "traducao2": "Estou profundamente interessado na pesquisa espacial.",
+            "traducao3": "Tenho grande paixão pela exploração do espaço."
+        },
+        {
+            "id": 255,
+            "frase_ingles": "How do you view the implications of biotechnology?",
+            "traducao": "Como você vê as implicações da biotecnologia?",
+            "traducao2": "Como você percebe as consequências da biotecnologia?",
+            "traducao3": "Como você interpreta os efeitos da biotecnologia?"
+        },
+        {
+            "id": 256,
+            "frase_ingles": "She's a connoisseur of rare wines.",
+            "traducao": "Ela é uma conhecedora de vinhos raros.",
+            "traducao2": "Ele é um conhecedor de vinhos de coleção.",
+            "traducao3": "Eles são conhecedores de vinhos raros."
+        },
+        {
+            "id": 257,
+            "frase_ingles": "I'm passionate about wildlife conservation.",
+            "traducao": "Sou apaixonado pela conservação da vida selvagem.",
+            "traducao2": "Estou obcecado com a preservação da fauna.",
+            "traducao3": "Tenho grande amor pela proteção da natureza."
+        },
+        {
+            "id": 258,
+            "frase_ingles": "Can you analyze the impact of social media on society?",
+            "traducao": "Você pode analisar o impacto das redes sociais na sociedade?",
+            "traducao2": "Você pode examinar a influência das mídias sociais na sociedade?",
+            "traducao3": "Você pode avaliar o efeito das redes sociais na sociedade?"
+        },
+        {
+            "id": 259,
+            "frase_ingles": "He's an advocate for clean energy solutions.",
+            "traducao": "Ele é defensor de soluções de energia limpa.",
+            "traducao2": "Ela é defensora de soluções energéticas sustentáveis.",
+            "traducao3": "Eles são defensores de fontes de energia limpa."
+        },
+        {
+            "id": 260,
+            "frase_ingles": "How do you interpret contemporary politics?",
+            "traducao": "Como você interpreta a política contemporânea?",
+            "traducao2": "Como você vê a política atual?",
+            "traducao3": "Como você entende a política contemporânea?"
+        },
+        {
+            "id": 261,
+            "frase_ingles": "Can you elucidate the philosophy of postmodernism?",
+            "traducao": "Você pode elucidar a filosofia do pós-modernismo?",
+            "traducao2": "Você pode explicar a filosofia do pós-modernismo?",
+            "traducao3": "Você pode esclarecer a filosofia do pós-modernismo?"
+        },
+        {
+            "id": 262,
+            "frase_ingles": "How do you interpret the impact of globalization on local cultures?",
+            "traducao": "Como você interpreta o impacto da globalização nas culturas locais?",
+            "traducao2": "Como você vê o impacto da globalização nas culturas locais?",
+            "traducao3": "Como você entende o impacto da globalização nas culturas locais?"
+        },
+        {
+            "id": 263,
+            "frase_ingles": "I'm deeply committed to advancing environmental conservation efforts.",
+            "traducao": "Estou profundamente comprometido com o avanço dos esforços de conservação ambiental.",
+            "traducao2": "Estou intensamente dedicado a promover iniciativas de preservação ambiental.",
+            "traducao3": "Tenho um profundo compromisso com o avanço da conservação ambiental."
+        },
+        {
+            "id": 264,
+            "frase_ingles": "Can you explain the significance of biodiversity in ecosystems?",
+            "traducao": "Você pode explicar a importância da biodiversidade nos ecossistemas?",
+            "traducao2": "Você pode esclarecer a significância da biodiversidade nos ecossistemas?",
+            "traducao3": "Você pode elucidar a importância da biodiversidade nos ecossistemas?"
+        },
+        {
+            "id": 265,
+            "frase_ingles": "She's a pioneer in artificial intelligence ethics research.",
+            "traducao": "Ela é pioneira em pesquisa ética em inteligência artificial.",
+            "traducao2": "Ele é um pioneiro na pesquisa de ética em inteligência artificial.",
+            "traducao3": "Eles são pioneiros na ética da pesquisa em inteligência artificial."
+        },
+        {
+            "id": 266,
+            "frase_ingles": "How do you interpret the cultural significance of traditional art forms?",
+            "traducao": "Como você interpreta a importância cultural das formas de arte tradicionais?",
+            "traducao2": "Como você vê a significância cultural das formas de arte tradicionais?",
+            "traducao3": "Como você entende a importância cultural das formas de arte tradicionais?"
+        },
+        {
+            "id": 267,
+            "frase_ingles": "I'm deeply passionate about promoting renewable energy sources.",
+            "traducao": "Sou profundamente apaixonado por promover fontes de energia renovável.",
+            "traducao2": "Estou intensamente dedicado a promover fontes de energia sustentável.",
+            "traducao3": "Tenho grande entusiasmo em promover fontes de energia renovável."
+        },
+        {
+            "id": 268,
+            "frase_ingles": "Can you explain the potential of artificial intelligence in healthcare?",
+            "traducao": "Você pode explicar o potencial da inteligência artificial na área da saúde?",
+            "traducao2": "Você pode esclarecer o potencial da inteligência artificial na área da saúde?",
+            "traducao3": "Você pode elucidar o potencial da inteligência artificial na área da saúde?"
+        },
+        {
+            "id": 269,
+            "frase_ingles": "He's a connoisseur of classical literature.",
+            "traducao": "Ele é um conhecedor de literatura clássica.",
+            "traducao2": "Ela é uma conhecedora de literatura clássica.",
+            "traducao3": "Eles são conhecedores de literatura clássica."
+        },
+        {
+            "id": 270,
+            "frase_ingles": "I'm enthusiastic about exploring the frontiers of space science.",
+            "traducao": "Sou entusiasta em explorar as fronteiras da ciência espacial.",
+            "traducao2": "Estou empolgado em explorar as fronteiras da ciência espacial.",
+            "traducao3": "Estou animado para explorar as fronteiras da ciência espacial."
+        },
+        {
+            "id": 271,
+            "frase_ingles": "How do you view the role of technology in environmental sustainability?",
+            "traducao": "Como você vê o papel da tecnologia na sustentabilidade ambiental?",
+            "traducao2": "Como você enxerga o papel da tecnologia na preservação do meio ambiente?",
+            "traducao3": "Como você interpreta o papel da tecnologia na sustentabilidade ambiental?"
+        },
+        {
+            "id": 272,
+            "frase_ingles": "She's a pioneer in artificial intelligence ethics research.",
+            "traducao": "Ela é pioneira em pesquisa ética em inteligência artificial.",
+            "traducao2": "Ele é um pioneiro na pesquisa de ética em inteligência artificial.",
+            "traducao3": "Eles são pioneiros na ética da pesquisa em inteligência artificial."
+        },
+        {
+            "id": 273,
+            "frase_ingles": "I'm an advocate for human rights and social justice.",
+            "traducao": "Sou defensor dos direitos humanos e justiça social.",
+            "traducao2": "Estou comprometido com os direitos humanos e justiça social.",
+            "traducao3": "Tenho como objetivo os direitos humanos e justiça social."
+        },
+        {
+            "id": 274,
+            "frase_ingles": "Can you analyze the impact of technology on education?",
+            "traducao": "Você pode analisar o impacto da tecnologia na educação?",
+            "traducao2": "Você pode examinar o efeito da tecnologia na educação?",
+            "traducao3": "Você pode avaliar o impacto da tecnologia na educação?"
+        },
+        {
+            "id": 275,
+            "frase_ingles": "He's a leading expert in sustainable architecture.",
+            "traducao": "Ele é um dos principais especialistas em arquitetura sustentável.",
+            "traducao2": "Ela é uma das principais especialistas em arquitetura sustentável.",
+            "traducao3": "Eles são especialistas líderes em arquitetura sustentável."
+        },
+        {
+            "id": 276,
+            "frase_ingles": "I'm deeply interested in the field of quantum physics.",
+            "traducao": "Tenho grande interesse na área da física quântica.",
+            "traducao2": "Estou profundamente interessado na física quântica.",
+            "traducao3": "Estou intensamente envolvido na física quântica."
+        },
+        {
+            "id": 277,
+            "frase_ingles": "How do you see the future of renewable energy technology?",
+            "traducao": "Como você enxerga o futuro da tecnologia de energia renovável?",
+            "traducao2": "Como você interpreta o futuro da tecnologia de energia limpa?",
+            "traducao3": "Como você visualiza o futuro da tecnologia de energia sustentável?"
+        },
+        {
+            "id": 278,
+            "frase_ingles": "I'm passionate about promoting sustainable agriculture practices.",
+            "traducao": "Sou apaixonado por promover práticas de agricultura sustentável.",
+            "traducao2": "Estou entusiasmado com a promoção de práticas agrícolas sustentáveis.",
+            "traducao3": "Tenho grande amor pela promoção de práticas de agricultura sustentável."
+        },
+        {
+            "id": 279,
+            "frase_ingles": "Can you elucidate the philosophy of postmodernism?",
+            "traducao": "Você pode elucidar a filosofia do pós-modernismo?",
+            "traducao2": "Você pode explicar a filosofia do pós-modernismo?",
+            "traducao3": "Você pode esclarecer a filosofia do pós-modernismo?"
+        },
+        {
+            "id": 280,
+            "frase_ingles": "She's an expert in artificial intelligence and machine learning.",
+            "traducao": "Ela é uma especialista em inteligência artificial e aprendizado de máquina.",
+            "traducao2": "Ele é um especialista em inteligência artificial e aprendizado de máquina.",
+            "traducao3": "Eles são especialistas em inteligência artificial e aprendizado de máquina."
+        },
+        {
+            "id": 281,
+            "frase_ingles": "How do you interpret the impact of globalization on local cultures?",
+            "traducao": "Como você interpreta o impacto da globalização nas culturas locais?",
+            "traducao2": "Como você vê o impacto da globalização nas culturas locais?",
+            "traducao3": "Como você entende o impacto da globalização nas culturas locais?"
+        },
+        {
+            "id": 282,
+            "frase_ingles": "I'm deeply committed to advancing environmental conservation efforts.",
+            "traducao": "Estou profundamente comprometido com o avanço dos esforços de conservação ambiental.",
+            "traducao2": "Estou intensamente dedicado a promover iniciativas de preservação ambiental.",
+            "traducao3": "Tenho um profundo compromisso com o avanço da conservação ambiental."
+        },
+        {
+            "id": 283,
+            "frase_ingles": "Can you explain the significance of biodiversity in ecosystems?",
+            "traducao": "Você pode explicar a importância da biodiversidade nos ecossistemas?",
+            "traducao2": "Você pode esclarecer a significância da biodiversidade nos ecossistemas?",
+            "traducao3": "Você pode elucidar a importância da biodiversidade nos ecossistemas?"
+        },
+        {
+            "id": 284,
+            "frase_ingles": "Can you elucidate the philosophy of postmodernism?",
+            "traducao": "Você pode elucidar a filosofia do pós-modernismo?",
+            "traducao2": "Você pode explicar a filosofia do pós-modernismo?",
+            "traducao3": "Você pode esclarecer a filosofia do pós-modernismo?"
+        },
+        {
+            "id": 285,
+            "frase_ingles": "He's an expert in artificial intelligence ethics research.",
+            "traducao": "Ele é um especialista em pesquisa ética em inteligência artificial.",
+            "traducao2": "Ela é uma especialista em pesquisa ética em inteligência artificial.",
+            "traducao3": "Eles são especialistas em pesquisa ética em inteligência artificial."
+        },
+        {
+            "id": 286,
+            "frase_ingles": "How do you interpret the impact of globalization on local cultures?",
+            "traducao": "Como você interpreta o impacto da globalização nas culturas locais?",
+            "traducao2": "Como você vê o impacto da globalização nas culturas locais?",
+            "traducao3": "Como você entende o impacto da globalização nas culturas locais?"
+        },
+        {
+            "id": 287,
+            "frase_ingles": "I'm deeply committed to advancing environmental conservation efforts.",
+            "traducao": "Estou profundamente comprometido com o avanço dos esforços de conservação ambiental.",
+            "traducao2": "Estou intensamente dedicado a promover iniciativas de preservação ambiental.",
+            "traducao3": "Tenho um profundo compromisso com o avanço da conservação ambiental."
+        },
+        {
+            "id": 288,
+            "frase_ingles": "Can you explain the significance of biodiversity in ecosystems?",
+            "traducao": "Você pode explicar a importância da biodiversidade nos ecossistemas?",
+            "traducao2": "Você pode esclarecer a significância da biodiversidade nos ecossistemas?",
+            "traducao3": "Você pode elucidar a importância da biodiversidade nos ecossistemas?"
+        },
+        {
+            "id": 289,
+            "frase_ingles": "He's a connoisseur of classical literature.",
+            "traducao": "Ele é um conhecedor de literatura clássica.",
+            "traducao2": "Ela é uma conhecedora de literatura clássica.",
+            "traducao3": "Eles são conhecedores de literatura clássica."
+        },
+        {
+            "id": 290,
+            "frase_ingles": "I'm enthusiastic about exploring the frontiers of space science.",
+            "traducao": "Sou entusiasta em explorar as fronteiras da ciência espacial.",
+            "traducao2": "Estou animado em explorar as fronteiras da ciência espacial.",
+            "traducao3": "Estou empolgado em explorar as fronteiras da ciência espacial."
+        },
+        {
+            "id": 291,
+            "frase_ingles": "How do you view the role of technology in environmental sustainability?",
+            "traducao": "Como você vê o papel da tecnologia na sustentabilidade ambiental?",
+            "traducao2": "Como você interpreta o papel da tecnologia na sustentabilidade ambiental?",
+            "traducao3": "Como você enxerga o papel da tecnologia na sustentabilidade ambiental?"
+        },
+        {
+            "id": 292,
+            "frase_ingles": "She's a pioneer in artificial intelligence ethics research.",
+            "traducao": "Ela é pioneira em pesquisa ética em inteligência artificial.",
+            "traducao2": "Ele é pioneiro em pesquisa ética em inteligência artificial.",
+            "traducao3": "Eles são pioneiros em pesquisa ética em inteligência artificial."
+        },
+        {
+            "id": 293,
+            "frase_ingles": "I'm deeply interested in the field of quantum physics.",
+            "traducao": "Tenho grande interesse na área da física quântica.",
+            "traducao2": "Estou profundamente interessado na área da física quântica.",
+            "traducao3": "Estou altamente interessado na área da física quântica."
+        },
+        {
+            "id": 294,
+            "frase_ingles": "How do you see the future of renewable energy technology?",
+            "traducao": "Como você enxerga o futuro da tecnologia de energia renovável?",
+            "traducao2": "Como você interpreta o futuro da tecnologia de energia renovável?",
+            "traducao3": "Como você visualiza o futuro da tecnologia de energia renovável?"
+        },
+        {
+            "id": 295,
+            "frase_ingles": "I'm passionate about promoting sustainable agriculture practices.",
+            "traducao": "Sou apaixonado por promover práticas de agricultura sustentável.",
+            "traducao2": "Sou dedicado a promover práticas de agricultura sustentável.",
+            "traducao3": "Sou entusiasmado em promover práticas de agricultura sustentável."
+        },
+        {
+            "id": 296,
+            "frase_ingles": "Can you elucidate the philosophy of postmodernism?",
+            "traducao": "Você pode elucidar a filosofia do pós-modernismo?",
+            "traducao2": "Você pode explicar a filosofia do pós-modernismo?",
+            "traducao3": "Você pode esclarecer a filosofia do pós-modernismo?"
+        },
+        {
+            "id": 297,
+            "frase_ingles": "She's an expert in marine biology and conservation.",
+            "traducao": "Ela é uma especialista em biologia marinha e conservação.",
+            "traducao2": "Ele é um especialista em biologia marinha e conservação.",
+            "traducao3": "Eles são especialistas em biologia marinha e conservação."
+        },
+        {
+            "id": 298,
+            "frase_ingles": "How do you interpret the cultural significance of traditional art forms?",
+            "traducao": "Como você interpreta a importância cultural das formas de arte tradicionais?",
+            "traducao2": "Como você vê a importância cultural das formas de arte tradicionais?",
+            "traducao3": "Como você entende a importância cultural das formas de arte tradicionais?"
+        },
+        {
+            "id": 299,
+            "frase_ingles": "I'm deeply passionate about promoting renewable energy sources.",
+            "traducao": "Sou profundamente apaixonado por promover fontes de energia renovável.",
+            "traducao2": "Sou intensamente dedicado a promover fontes de energia renovável.",
+            "traducao3": "Tenho um profundo compromisso com a promoção de fontes de energia renovável."
+        }
+    ]
 }
