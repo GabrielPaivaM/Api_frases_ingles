@@ -27,7 +27,7 @@ server.get('/random_exercise/:level', (req, res) => {
     const exercises = exerciciosData[selectedLevel];
     randomExercise = exercises[Math.floor(Math.random() * exercises.length)];
 
-    res.json({ random_exercise: randomExercise });
+    res.json(randomExercise);
 })
 
 server.listen(port, () => {
